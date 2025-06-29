@@ -46,9 +46,9 @@ const Home = () => {
       </section>
 
       {/* Safety */}
-      <section className="flex flex-col items-center justify-center w-full h-[58vh] bg-gradient-to-l from-[#59dbdb] to-[#55017d] text-white z-0">
+      <section className="flex flex-col items-center justify-center w-full h-[65vh] bg-gradient-to-l from-[#59dbdb] to-[#55017d] text-white z-0">
         <div className="flex items-center justify-center mb-4">
-          <img src={safety} alt="Safety" className="w-full h-[18vh]" />
+          <img src={safety} alt="Safety" className="w-full h-[20vh]" />
         </div>
         <h3 className="text-2xl pb-16 px-4 mt-4">Secure Shopping, Peace of Mind</h3>
         <p className="text-2xl pb-20 px-4 text-center">
@@ -57,14 +57,14 @@ const Home = () => {
       </section>
 
       {/* Discover */}
-      <section className="flex flex-col items-center justify-center text-center w-full h-[19vh]">
+      <section className="flex flex-col items-center justify-center text-center w-full h-[20vh]">
         <p className="font-[Pacifico] text-[2rem] text-[#55017d]">
           Discover the Abyss
         </p>
       </section>
 
       {/* Delivery */}
-      <section className="flex flex-col xl:flex-row items-center justify-center w-full h-[39vh] bg-gradient-to-r from-[#59dbdb] to-[#55017d] text-white z-0 px-4">
+      <section className="flex flex-col xl:flex-row items-center justify-center w-full h-[40vh] bg-gradient-to-r from-[#59dbdb] to-[#55017d] text-white z-0 px-4">
         <div className="flex flex-col items-center xl:items-start justify-center text-center xl:text-left px-4 mb-6 xl:mb-0">
           <h3 className="italic text-xl md:text-2xl pb-4 mt-10 xl:mt-0">Faster, faster, faster...</h3>
           <p className="text-lg sm:text-xl md:text-2xl">Your lightning-fast delivery partner.</p>
