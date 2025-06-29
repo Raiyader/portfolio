@@ -1,0 +1,293 @@
+[
+  {
+    "id": "elec-001",
+    "title": "Apple iPhone 16",
+    "description": "Latest Apple iPhone model with advanced features.",
+    "price": 1599.99,
+    "onSale": true,
+    "discountPercent": 10,
+    "stock": 3,
+    "category": {
+      "name": "Electronics",
+      "slug": "electronics",
+      "subCategory": {
+        "name": "Mobile Phones",
+        "slug": "mobile-phones"
+      }
+    },
+    "imageUrl": "elec-001",
+    "addedBy": "TechStore"
+  },
+  {
+    "id": "toy-001",
+    "title": "Batman Action Figure",
+    "description": "Highly detailed Batman figure with articulated joints. A must-have for DC fans and collectors.",
+    "price": 19.99,
+    "stock": 30,
+    "imageUrl": "toy-001",
+    "category": {
+      "name": "Toys & Games",
+      "slug": "toys-games",
+      "subCategory": {
+        "name": "Action Figures",
+        "slug": "action-figures"
+      }
+    },
+    "onSale": true,
+    "discountPercent": 20,
+    "addedBy": "KnightCollectibles"
+  },
+  {
+    "id": "food-001",
+    "title": "Chocolate Chip Cookies",
+    "description": "Crispy and chewy chocolate chip cookies made with real butter and premium chocolate.",
+    "price": 4.29,
+    "stock": 0,
+    "imageUrl": "food-001",
+    "category": {
+      "name": "Food & Grocery",
+      "slug": "food-grocery",
+      "subCategory": {
+        "name": "Snacks",
+        "slug": "snacks"
+      }
+    },
+    "onSale": false,
+    "discountPercent": null,
+    "addedBy": "SweetCrumbs"
+  },
+  {
+    "id": "automotive-001",
+    "title": "Cordless Drill Set – 18V",
+    "description": "Compact and powerful cordless drill with 2 batteries, charger, and 20-piece accessory set.",
+    "price": 89.99,
+    "stock": 10,
+    "imageUrl": "automotive-001",
+    "category": {
+      "name": "Automotive",
+      "slug": "automotive",
+      "subCategory": {
+        "name": "Tools & Equipment",
+        "slug": "tools-equipment"
+      }
+    },
+    "onSale": true,
+    "discountPercent": 10,
+    "addedBy": "TorqueTools"
+  },
+  {
+    "id": "home-002",
+    "title": "Garden Tool Set",
+    "description": "Complete garden tool set for all your gardening needs.",
+    "price": 79.99,
+    "onSale": false,
+    "stock": 35,
+    "category": {
+      "name": "Home & Garden",
+      "slug": "home-garden",
+      "subCategory": {
+        "name": "Garden",
+        "slug": "garden"
+      }
+    },
+    "imageUrl": "home-002",
+    "addedBy": "GardenPro"
+  },
+  {
+    "id": "office-001",
+    "title": "Gel Ink Pen",
+    "description": "Smooth writing gel pens with comfortable grip. Ideal for office, school, or home use.",
+    "price": 6.99,
+    "stock": 50,
+    "imageUrl": "office-001",
+    "category": {
+      "name": "Office Supplies",
+      "slug": "office-supplies",
+      "subCategory": {
+        "name": "Stationery",
+        "slug": "stationery"
+      }
+    },
+    "onSale": false,
+    "discountPercent": null,
+    "addedBy": "PaperTrail"
+  },
+  {
+    "id": "beauty-002",
+    "title": "Herbal Shampoo",
+    "description": "Gentle herbal shampoo for all hair types.",
+    "price": 15.99,
+    "onSale": false,
+    "stock": 70,
+    "category": {
+      "name": "Beauty & Health",
+      "slug": "beauty-health",
+      "subCategory": {
+        "name": "Personal Care",
+        "slug": "personal-care"
+      }
+    },
+    "imageUrl": "beauty-002",
+    "addedBy": "BeautyPlus"
+  },
+  {
+    "id": "clothing-001",
+    "title": "Men's Casual T-Shirt",
+    "description": "Comfortable cotton casual t-shirt available in multiple colors.",
+    "price": 19.99,
+    "onSale": true,
+    "discountPercent": 20,
+    "stock": {
+    "XS": 0,
+    "S": 5,
+    "M": 2,
+    "L": 0,
+    "XL": 13
+    },
+    "category": {
+      "name": "Clothing",
+      "slug": "clothing",
+      "subCategory": {
+        "name": "Men",
+        "slug": "men"
+      }
+    },
+    "imageUrl": "clothing-001",
+    "addedBy": "FashionHub"
+  },
+  {
+    "id": "sports-002",
+    "title": "Mountain Bike",
+    "description": "Durable mountain bike suitable for all terrains.",
+    "price": 599.99,
+    "onSale": true,
+    "discountPercent": 30,
+    "stock": 15,
+    "category": {
+      "name": "Sports & Outdoors",
+      "slug": "sports-outdoors",
+      "subCategory": {
+        "name": "Cycling",
+        "slug": "cycling"
+      }
+    },
+    "imageUrl": "sports-002",
+    "addedBy": "CycleWorld"
+  },
+  {
+    "id": "home-001",
+    "title": "Modern Sofa",
+    "description": "Comfortable modern sofa for your living room with fabric upholstery.",
+    "price": 899.99,
+    "onSale": true,
+    "discountPercent": 25,
+    "stock": 10,
+    "category": {
+      "name": "Home & Garden",
+      "slug": "home-garden",
+      "subCategory": {
+        "name": "Furniture",
+        "slug": "furniture"
+      }
+    },
+    "imageUrl": "home-001",
+    "addedBy": "HomeDeco"
+  },
+  {
+    "id": "beauty-001",
+    "title": "Organic Face Cream",
+    "description": "Moisturizing organic face cream for all skin types.",
+    "price": 25.99,
+    "onSale": true,
+    "discountPercent": 50,
+    "stock": 45,
+    "category": {
+      "name": "Beauty & Health",
+      "slug": "beauty-health",
+      "subCategory": {
+        "name": "Skincare",
+        "slug": "skincare"
+      }
+    },
+    "imageUrl": "beauty-001",
+    "addedBy": "BeautyPlus"
+  },
+  {
+    "id": "elec-002",
+    "title": "Sony WH-1000XM5 Wireless Headphones",
+    "description": "Industry leading noise cancelling headphones with premium sound quality.",
+    "price": 349.99,
+    "onSale": false,
+    "stock": 0,
+    "category": {
+      "name": "Electronics",
+      "slug": "electronics",
+      "subCategory": {
+        "name": "Wearables",
+        "slug": "wearables"
+      }
+    },
+    "imageUrl": "elec-002",
+    "addedBy": "AudioWorld"
+  },
+  {
+    "id": "books-001",
+    "title": "The Lord of the Rings",
+    "description": "An epic high-fantasy novel written by J.R.R. Tolkien.",
+    "price": 69.99,
+    "onSale": false,
+    "stock": 120,
+    "category": {
+      "name": "Books & Media",
+      "slug": "books-media",
+      "subCategory": {
+        "name": "Books",
+        "slug": "books"
+      }
+    },
+    "imageUrl": "books-001",
+    "addedBy": "BookWorld"
+  },
+  {
+    "id": "clothing-002",
+    "title": "Women's Summer Dress",
+    "description": "Light and breezy summer dress with floral patterns.",
+    "price": 49.99,
+    "onSale": false,
+    "stock": {
+    "XS": 1,
+    "S": 0,
+    "M": 0,
+    "L": 6,
+    "XL": 4
+    },
+    "category": {
+      "name": "Clothing",
+      "slug": "clothing",
+      "subCategory": {
+        "name": "Women",
+        "slug": "women"
+      }
+    },
+    "imageUrl": "clothing-002",
+    "addedBy": "FashionHub"
+  },
+  {
+    "id": "sports-001",
+    "title": "Yoga Mat",
+    "description": "Non-slip yoga mat with extra cushioning for comfort.",
+    "price": 29.99,
+    "onSale": false,
+    "stock": 80,
+    "category": {
+      "name": "Sports & Outdoors",
+      "slug": "sports-outdoors",
+      "subCategory": {
+        "name": "Fitness",
+        "slug": "fitness"
+      }
+    },
+    "imageUrl": "sports-001",
+    "addedBy": "FitLife"
+  }
+]

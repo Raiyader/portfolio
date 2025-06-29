@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+@theme {
+  --font-outfit: "Outfit";
+  --font-inter: "Inter";
+  --font-roboto: "Roboto";
+  --font-pacifico: "Pacifico";
+  --font-merienda: "Merienda";
+  --font-nanum: "Nanum Pen Script";
+
+  --color-primary: rgb(78, 201, 176);
+  --color-headerbg: rgb(30, 30, 30);
+  --color-footerbg: rgb(45, 45, 45);
+
+  --color-portfoliobg: rgb(37, 37, 37);
+  --color-abyssbg: rgb(240, 240, 240);
+  --color-firekitchenbg: rgb(48, 48, 48);
+  --color-artikelboostbg: rgb(240, 240, 240);
+
+  --color-abyssprimary: rgb(35, 1, 45);
+  --color-abysssecondary: rgb(89, 219, 219);
+  --color-abyssalternative: rgb(85, 1, 125);
+
+  --color-firekitchenprimary: rgb(255, 153, 51);
+  --color-firekitchensecondary: rgb(49, 49, 49);
+}
+
+@keyframes fillPulse {
+  0%, 100% {
+    fill: #ff3333;
+  }
+  50% {
+    fill: #ff9933;
+  }
+}
+
+.loading-fill-animation {
+  animation: fillPulse 3s ease-in-out infinite;
+}

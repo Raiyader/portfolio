@@ -1,0 +1,50 @@
+{
+    "header": {
+    "projects": "Projeler",
+    "contact": "İletişim",
+    "changeLanguage": "Change Language"
+  },
+    "hero": {
+    "introText": "Merhaba ben",
+    "rotatingWords": [
+      "Yazılım Geliştirici.",
+      "Frontend Geliştirici.",
+      "React Geliştirici."
+    ],
+    "description": "Sadelik ve performansı göz önünde bulundurarak, etkileşimli ve güçlü yazılımlar geliştiriyorum."
+  },
+    "projectsSection": {
+    "title": "Etkili ve ölçeklenebilir çözümler üretiyorum",
+    "description": "Modern teknolojiler kullanarak kapsamlı uygulamalar geliştiriyorum. Yaklaşımımı demolar ve kaynak kodlar üzerinden görebilirsiniz.",
+    "exploreButton": "Projeleri ve Demoları İncele"
+  },
+    "contactSection": {
+    "title": "İletişime Geçelim",
+    "description": "E-posta yoluyla benimle iletişime geçebilir ya da LinkedIn üzerinden bağlantı kurabilirsiniz.",
+    "copy": "Kopyalamak için tıklayın",
+    "copied": "Kopyalandı!"
+  },
+  "projectsTitle": "Projeler",
+  "projectsIntro": "Bu projelerin her biri, bir geliştirici olarak kariyer yolculuğumdaki bir adımı temsil ediyor. Teoriyi pratiğe dökmek ve öğrendiklerimi uygulamak amacıyla hayata geçirdim. İlk bakışta basit görünebilirler; ancak bu projelerin her biri, farklı teknolojileri keşfettiğim ya da bunları etkili ve pratik biçimde bir araya getirdiğim değerli deneyimler sundu. Artık yalnızca öğrenme amacıyla projeler geliştirmiyorum; özgün, anlamlı yazılımlar üretmeye ve gerçek dünya uygulamalarına katkı sağlamaya hazırım.",
+
+  "projects": {
+    "1": {
+      "description": "Abyssal Shopping, geliştirici olarak sıfırdan inşa ettiğim ilk kapsamlı e-ticaret web uygulamasıdır. Modern çevrimiçi mağazaların temel işlevlerini yansıtır: kullanıcılar kayıt olup giriş yapabilir, ürünleri inceleyebilir, sepete ekleyip satın alabilir ve kendi ürünlerini satışa sunabilirler. React, Node.js, Express ve MongoDB kullanılarak geliştirilmiş tam bir full-stack uygulamadır. JWT tabanlı kimlik doğrulama, rota koruması ve Redux ile global state yönetimi gibi özellikler içerir. Stil kütüphaneleri kullanılmamış; tüm CSS manuel olarak yazılmıştır."
+    },
+    "2": {
+      "description": "Adventure Log, Next.js ve MongoDB ile geliştirilen seyahat temalı bir blog uygulamasıdır. Kullanıcılar seyahat deneyimlerini paylaşabilir, görsellerle birlikte gönderiler oluşturup yayınlayabilir. Proje, içeriği ön plana çıkarmak için temiz ve minimal bir arayüze odaklanırken, kullanıcı kimlik doğrulaması ve güvenli gönderi yönetimi özellikleri sunar. Bu proje, Next.js ekosistemini kullanarak modern full-stack geliştirme pratiği yapmamı sağladı. Tüm stil kodları, tamamen özelleştirilmiş ve manuel olarak yazılmış CSS ile oluşturuldu."
+    },
+    "3": {
+      "description": "Abyssal Events, ASP.NET MVC, Web API ve Microsoft SQL Server kullanılarak geliştirilen etkinlik odaklı bir blog platformudur. Kullanıcılar konserler, spor ve sahne sanatları gibi kategorilerde etkinliklerle ilgili gönderileri keşfedebilir. Ayrıca, etkinlikleri favorilere ekleyerek daha sonra hızlıca erişebilirler. Bu proje, C# ve .NET ekosisteminde tam bir uygulama geliştirme konusundaki ilk deneyimimdi; Entity Framework kullanımı ve yapılandırılmış backend mantığı üzerinde çalıştım. Stil için, ASP.NET MVC’nin varsayılan Bootstrap yapısı kullanıldı."
+    },
+    "4": {
+      "description": "Fire Kitchen, kullanıcıların çeşitli yemek tariflerini inceleyip okuyabildiği tarif odaklı bir blog uygulamasıdır. Projede frontend tarafında React, backend tarafında ise ASP.NET Web API kullanılmış; veritabanı olarak SQL Server tercih edilmiştir. Bu proje, React’i gerçek dünyada bir .NET backend ile entegre etme fırsatı sundu. Uygulamada veri çekme için React Query, kimlik doğrulama için JWT, stil için ise özel CSS ile Bootstrap kombinasyonu kullanılmıştır. Veritabanı işlemleri Entity Framework ile gerçekleştirilmiştir."
+    },
+    "5": {
+      "description": "Artikel Boost, kullanıcıların Almanca isim artikellerini ve dilbilgisinde farklı hâllerdeki değişimlerini öğrenip pratik yapmalarına yardımcı olmak için tasarlanmış interaktif bir web uygulamasıdır. React ve Flask ile geliştirilmiş olup, öğrenmeyi kolaylaştırmak için renk kodlu bir arayüze sahiptir. Uygulama, der/die/das artikellerinin Nominativ, Akkusativ, Dativ ve Genitiv gibi farklı hallerdeki dönüşümlerini vurgular. Bu projeyi Almanca öğrenirken kendime yardımcı olması adına oluşturdum. Bu nedenle, tam bir veritabanı sistemi yerine, veriler backend’de statik bir JSON dosyasında tutuldu; amaç hafif ve kişisel bir çalışma aracı sunmaktı. Arayüz tasarımında Tailwind CSS tercih edildi."
+    },
+    "6": {
+      "description": "Portfolio, React, TypeScript ve Tailwind CSS kullanarak oluşturduğum kişisel web sitemdir. Bu site, yalnızca geliştirdiğim projeleri sergilemekle kalmaz; aynı zamanda frontend yolculuğumda JavaScript’ten TypeScript’e geçişte bir köprü görevi üstlenir. Daha önce JavaScript ile geliştirdiğim projeler, TypeScript’e dönüştürülerek bu siteye demo şeklinde entegre edilmiştir. Aynı şekilde, bu demolarda kullanılan eski CSS yapıları da Tailwind CSS ile yeniden düzenlenmiştir. Proje yapısı React Router ile organize edilmiştir; sayfalar ve demo görünümleri arasında kesintisiz bir gezinme sunar. Sayfa geçişleri ve animasyonlar ise Motion kütüphanesi ile uygulanmıştır."
+    }
+  }
+}

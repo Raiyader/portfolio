@@ -1,0 +1,4098 @@
+[
+  {
+    "id": "abfahrt-Nominativ",
+    "category": {
+      "name": "Transportation",
+      "slug": "transportation"
+    },
+    "article": "die",
+    "word": "Abfahrt",
+    "case_name": "Nominativ",
+    "articleByCase": "die",
+    "wordByCase": "Abfahrt",
+    "plural": "Abfahrten",
+    "meaning": "departure",
+    "example": "Die Abfahrt ist für 10 Uhr geplant.",
+    "example_en": "The departure is scheduled for 10 o'clock."
+  },
+  {
+    "id": "abfahrt-Akkusativ",
+    "category": {
+      "name": "Transportation",
+      "slug": "transportation"
+    },
+    "article": "die",
+    "word": "Abfahrt",
+    "case_name": "Akkusativ",
+    "articleByCase": "die",
+    "wordByCase": "Abfahrt",
+    "plural": "Abfahrten",
+    "meaning": "departure",
+    "example": "Wir verpassen die Abfahrt, wenn wir uns beeilen müssen.",
+    "example_en": "We will miss the departure if we have to hurry."
+  },
+  {
+    "id": "abfahrt-Dativ",
+    "category": {
+      "name": "Transportation",
+      "slug": "transportation"
+    },
+    "article": "die",
+    "word": "Abfahrt",
+    "case_name": "Dativ",
+    "articleByCase": "der",
+    "wordByCase": "Abfahrt",
+    "plural": "Abfahrten",
+    "meaning": "departure",
+    "example": "Mit der Abfahrt beginnt unser Abenteuer.",
+    "example_en": "With the departure, our adventure begins."
+  },
+  {
+    "id": "abfahrt-Genitiv",
+    "category": {
+      "name": "Transportation",
+      "slug": "transportation"
+    },
+    "article": "die",
+    "word": "Abfahrt",
+    "case_name": "Genitiv",
+    "articleByCase": "der",
+    "wordByCase": "Abfahrt",
+    "plural": "Abfahrten",
+    "meaning": "departure",
+    "example": "Die Zeit der Abfahrt wurde geändert.",
+    "example_en": "The time of the departure has been changed."
+  },
+  {
+    "id": "anwalt-Nominativ",
+    "category": {
+      "name": "Professions",
+      "slug": "professions"
+    },
+    "article": "der",
+    "word": "Anwalt",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "Anwalt",
+    "plural": "Anwälte",
+    "meaning": "lawyer (male)",
+    "example": "Der Anwalt spricht mit dem Richter.",
+    "example_en": "The lawyer is speaking with the judge."
+  },
+  {
+    "id": "anwalt-Akkusativ",
+    "category": {
+      "name": "Professions",
+      "slug": "professions"
+    },
+    "article": "der",
+    "word": "Anwalt",
+    "case_name": "Akkusativ",
+    "articleByCase": "den",
+    "wordByCase": "Anwalt",
+    "plural": "Anwälte",
+    "meaning": "lawyer (male)",
+    "example": "Ich sehe den Anwalt im Gericht.",
+    "example_en": "I see the lawyer in court."
+  },
+  {
+    "id": "anwalt-Dativ",
+    "category": {
+      "name": "Professions",
+      "slug": "professions"
+    },
+    "article": "der",
+    "word": "Anwalt",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Anwalt",
+    "plural": "Anwälte",
+    "meaning": "lawyer (male)",
+    "example": "Ich gebe dem Anwalt die Dokumente.",
+    "example_en": "I give the documents to the lawyer."
+  },
+  {
+    "id": "anwalt-Genitiv",
+    "category": {
+      "name": "Professions",
+      "slug": "professions"
+    },
+    "article": "der",
+    "word": "Anwalt",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Anwalts",
+    "plural": "Anwälte",
+    "meaning": "lawyer (male)",
+    "example": "Das Büro des Anwalts ist im Stadtzentrum.",
+    "example_en": "The lawyer's office is in the city center."
+  },
+  {
+    "id": "anwältin-Nominativ",
+    "category": {
+      "name": "Professions",
+      "slug": "professions"
+    },
+    "article": "die",
+    "word": "Anwältin",
+    "case_name": "Nominativ",
+    "articleByCase": "die",
+    "wordByCase": "Anwältin",
+    "plural": "Anwältinnen",
+    "meaning": "lawyer (female)",
+    "example": "Die Anwältin bereitet die Verteidigung vor.",
+    "example_en": "The lawyer is preparing the defense."
+  },
+  {
+    "id": "anwältin-Akkusativ",
+    "category": {
+      "name": "Professions",
+      "slug": "professions"
+    },
+    "article": "die",
+    "word": "Anwältin",
+    "case_name": "Akkusativ",
+    "articleByCase": "die",
+    "wordByCase": "Anwältin",
+    "plural": "Anwältinnen",
+    "meaning": "lawyer (female)",
+    "example": "Ich kenne die Anwältin gut.",
+    "example_en": "I know the lawyer well."
+  },
+  {
+    "id": "anwältin-Dativ",
+    "category": {
+      "name": "Professions",
+      "slug": "professions"
+    },
+    "article": "die",
+    "word": "Anwältin",
+    "case_name": "Dativ",
+    "articleByCase": "der",
+    "wordByCase": "Anwältin",
+    "plural": "Anwältinnen",
+    "meaning": "lawyer (female)",
+    "example": "Ich helfe der Anwältin bei der Recherche.",
+    "example_en": "I help the lawyer with the research."
+  },
+  {
+    "id": "anwältin-Genitiv",
+    "category": {
+      "name": "Professions",
+      "slug": "professions"
+    },
+    "article": "die",
+    "word": "Anwältin",
+    "case_name": "Genitiv",
+    "articleByCase": "der",
+    "wordByCase": "Anwältin",
+    "plural": "Anwältinnen",
+    "meaning": "lawyer (female)",
+    "example": "Die Argumente der Anwältin waren überzeugend.",
+    "example_en": "The lawyer's arguments were convincing."
+  },
+  {
+    "id": "arzt-Nominativ",
+    "category": {
+      "name": "Professions",
+      "slug": "professions"
+    },
+    "article": "der",
+    "word": "Arzt",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "Arzt",
+    "plural": "Ärzte",
+    "meaning": "doctor (male)",
+    "example": "Der Arzt untersucht den Patienten.",
+    "example_en": "The doctor examines the patient."
+  },
+  {
+    "id": "arzt-Akkusativ",
+    "category": {
+      "name": "Professions",
+      "slug": "professions"
+    },
+    "article": "der",
+    "word": "Arzt",
+    "case_name": "Akkusativ",
+    "articleByCase": "den",
+    "wordByCase": "Arzt",
+    "plural": "Ärzte",
+    "meaning": "doctor (male)",
+    "example": "Ich besuche den Arzt morgen.",
+    "example_en": "I will visit the doctor tomorrow."
+  },
+  {
+    "id": "arzt-Dativ",
+    "category": {
+      "name": "Professions",
+      "slug": "professions"
+    },
+    "article": "der",
+    "word": "Arzt",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Arzt",
+    "plural": "Ärzte",
+    "meaning": "doctor (male)",
+    "example": "Ich vertraue dem Arzt vollkommen.",
+    "example_en": "I completely trust the doctor."
+  },
+  {
+    "id": "arzt-Genitiv",
+    "category": {
+      "name": "Professions",
+      "slug": "professions"
+    },
+    "article": "der",
+    "word": "Arzt",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Arztes",
+    "plural": "Ärzte",
+    "meaning": "doctor (male)",
+    "example": "Die Praxis des Arztes ist modern ausgestattet.",
+    "example_en": "The doctor’s practice is modernly equipped."
+  },
+  {
+    "id": "auto-Nominativ",
+    "category": {
+      "name": "Transportation",
+      "slug": "transportation"
+    },
+    "article": "das",
+    "word": "Auto",
+    "case_name": "Nominativ",
+    "articleByCase": "das",
+    "wordByCase": "Auto",
+    "plural": "Autos",
+    "meaning": "car",
+    "example": "Das Auto steht vor dem Haus.",
+    "example_en": "The car is parked in front of the house."
+  },
+  {
+    "id": "auto-Akkusativ",
+    "category": {
+      "name": "Transportation",
+      "slug": "transportation"
+    },
+    "article": "das",
+    "word": "Auto",
+    "case_name": "Akkusativ",
+    "articleByCase": "das",
+    "wordByCase": "Auto",
+    "plural": "Autos",
+    "meaning": "car",
+    "example": "Ich wasche das Auto am Wochenende.",
+    "example_en": "I wash the car on the weekend."
+  },
+  {
+    "id": "auto-Dativ",
+    "category": {
+      "name": "Transportation",
+      "slug": "transportation"
+    },
+    "article": "das",
+    "word": "Auto",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Auto",
+    "plural": "Autos",
+    "meaning": "car",
+    "example": "Ich gebe dem Auto regelmäßig neues Öl.",
+    "example_en": "I regularly give the car new oil."
+  },
+  {
+    "id": "auto-Genitiv",
+    "category": {
+      "name": "Transportation",
+      "slug": "transportation"
+    },
+    "article": "das",
+    "word": "Auto",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Autos",
+    "plural": "Autos",
+    "meaning": "car",
+    "example": "Die Farbe des Autos gefällt mir sehr.",
+    "example_en": "I really like the color of the car."
+  },
+  {
+    "id": "bahnhof-Nominativ",
+    "category": {
+      "name": "Places",
+      "slug": "places"
+    },
+    "article": "der",
+    "word": "Bahnhof",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "Bahnhof",
+    "plural": "Bahnhöfe",
+    "meaning": "train station",
+    "example": "Der Bahnhof ist sehr groß.",
+    "example_en": "The train station is very large."
+  },
+  {
+    "id": "bahnhof-Akkusativ",
+    "category": {
+      "name": "Places",
+      "slug": "places"
+    },
+    "article": "der",
+    "word": "Bahnhof",
+    "case_name": "Akkusativ",
+    "articleByCase": "den",
+    "wordByCase": "Bahnhof",
+    "plural": "Bahnhöfe",
+    "meaning": "train station",
+    "example": "Wir erreichen den Bahnhof in zehn Minuten.",
+    "example_en": "We reach the train station in ten minutes."
+  },
+  {
+    "id": "bahnhof-Dativ",
+    "category": {
+      "name": "Places",
+      "slug": "places"
+    },
+    "article": "der",
+    "word": "Bahnhof",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Bahnhof",
+    "plural": "Bahnhöfe",
+    "meaning": "train station",
+    "example": "Am Morgen bin ich oft am Bahnhof.",
+    "example_en": "In the morning I am often at the train station."
+  },
+  {
+    "id": "bahnhof-Genitiv",
+    "category": {
+      "name": "Places",
+      "slug": "places"
+    },
+    "article": "der",
+    "word": "Bahnhof",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Bahnhofes",
+    "plural": "Bahnhöfe",
+    "meaning": "train station",
+    "example": "Die Türen des Bahnhofes sind geschlossen.",
+    "example_en": "The doors of the train station are closed."
+  },
+  {
+    "id": "bibliothek-Nominativ",
+    "category": {
+      "name": "Places",
+      "slug": "places"
+    },
+    "article": "die",
+    "word": "Bibliothek",
+    "case_name": "Nominativ",
+    "articleByCase": "die",
+    "wordByCase": "Bibliothek",
+    "plural": "Bibliotheken",
+    "meaning": "library",
+    "example": "Die Bibliothek ist sehr ruhig.",
+    "example_en": "The library is very quiet."
+  },
+  {
+    "id": "bibliothek-Akkusativ",
+    "category": {
+      "name": "Places",
+      "slug": "places"
+    },
+    "article": "die",
+    "word": "Bibliothek",
+    "case_name": "Akkusativ",
+    "articleByCase": "die",
+    "wordByCase": "Bibliothek",
+    "plural": "Bibliotheken",
+    "meaning": "library",
+    "example": "Ich besuche die Bibliothek jeden Tag.",
+    "example_en": "I visit the library every day."
+  },
+  {
+    "id": "bibliothek-Dativ",
+    "category": {
+      "name": "Places",
+      "slug": "places"
+    },
+    "article": "die",
+    "word": "Bibliothek",
+    "case_name": "Dativ",
+    "articleByCase": "der",
+    "wordByCase": "Bibliothek",
+    "plural": "Bibliotheken",
+    "meaning": "library",
+    "example": "Ich lerne in der Bibliothek.",
+    "example_en": "I study in the library."
+  },
+  {
+    "id": "bibliothek-Genitiv",
+    "category": {
+      "name": "Places",
+      "slug": "places"
+    },
+    "article": "die",
+    "word": "Bibliothek",
+    "case_name": "Genitiv",
+    "articleByCase": "der",
+    "wordByCase": "Bibliothek",
+    "plural": "Bibliotheken",
+    "meaning": "library",
+    "example": "Die Tür der Bibliothek ist geschlossen.",
+    "example_en": "The door of the library is closed."
+  },
+  {
+    "id": "brot-Nominativ",
+    "category": {
+      "name": "Food & Drinks",
+      "slug": "food-drinks"
+    },
+    "article": "das",
+    "word": "Brot",
+    "case_name": "Nominativ",
+    "articleByCase": "das",
+    "wordByCase": "Brot",
+    "plural": "die Brote",
+    "meaning": "bread",
+    "example": "Das Brot ist frisch gebacken.",
+    "example_en": "The bread is freshly baked."
+  },
+  {
+    "id": "brot-Akkusativ",
+    "category": {
+      "name": "Food & Drinks",
+      "slug": "food-drinks"
+    },
+    "article": "das",
+    "word": "Brot",
+    "case_name": "Akkusativ",
+    "articleByCase": "das",
+    "wordByCase": "Brot",
+    "plural": "die Brote",
+    "meaning": "bread",
+    "example": "Ich esse das Brot mit Butter.",
+    "example_en": "I eat the bread with butter."
+  },
+  {
+    "id": "brot-Dativ",
+    "category": {
+      "name": "Food & Drinks",
+      "slug": "food-drinks"
+    },
+    "article": "das",
+    "word": "Brot",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Brot",
+    "plural": "die Brote",
+    "meaning": "bread",
+    "example": "Sie hilft dem Brot beim Abkühlen.",
+    "example_en": "She helps the bread cool down."
+  },
+  {
+    "id": "brot-Genitiv",
+    "category": {
+      "name": "Food & Drinks",
+      "slug": "food-drinks"
+    },
+    "article": "das",
+    "word": "Brot",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Brots",
+    "plural": "die Brote",
+    "meaning": "bread",
+    "example": "Die Kruste des Brots ist knusprig.",
+    "example_en": "The crust of the bread is crispy."
+  },
+  {
+    "id": "bus-Nominativ",
+    "category": {
+      "name": "Transportation",
+      "slug": "transportation"
+    },
+    "article": "der",
+    "word": "Bus",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "Bus",
+    "plural": "Busse",
+    "meaning": "bus",
+    "example": "Der Bus kommt pünktlich um acht Uhr.",
+    "example_en": "The bus arrives on time at eight o'clock."
+  },
+  {
+    "id": "bus-Akkusativ",
+    "category": {
+      "name": "Transportation",
+      "slug": "transportation"
+    },
+    "article": "der",
+    "word": "Bus",
+    "case_name": "Akkusativ",
+    "articleByCase": "den",
+    "wordByCase": "Bus",
+    "plural": "Busse",
+    "meaning": "bus",
+    "example": "Ich nehme den Bus zur Arbeit.",
+    "example_en": "I take the bus to work."
+  },
+  {
+    "id": "bus-Dativ",
+    "category": {
+      "name": "Transportation",
+      "slug": "transportation"
+    },
+    "article": "der",
+    "word": "Bus",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Bus",
+    "plural": "Busse",
+    "meaning": "bus",
+    "example": "Die Frau hilft dem Busfahrer.",
+    "example_en": "The woman helps the bus driver."
+  },
+  {
+    "id": "bus-Genitiv",
+    "category": {
+      "name": "Transportation",
+      "slug": "transportation"
+    },
+    "article": "der",
+    "word": "Bus",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Busses",
+    "plural": "Busse",
+    "meaning": "bus",
+    "example": "Die Tür des Busses ist kaputt.",
+    "example_en": "The door of the bus is broken."
+  },
+  {
+    "id": "backerei-Nominativ",
+    "category": {
+      "name": "Places",
+      "slug": "places"
+    },
+    "article": "die",
+    "word": "Bäckerei",
+    "case_name": "Nominativ",
+    "articleByCase": "die",
+    "wordByCase": "Bäckerei",
+    "plural": "Bäckereien",
+    "meaning": "bakery",
+    "example": "Die Bäckerei öffnet um sieben Uhr.",
+    "example_en": "The bakery opens at seven o'clock."
+  },
+  {
+    "id": "backerei-Akkusativ",
+    "category": {
+      "name": "Places",
+      "slug": "places"
+    },
+    "article": "die",
+    "word": "Bäckerei",
+    "case_name": "Akkusativ",
+    "articleByCase": "die",
+    "wordByCase": "Bäckerei",
+    "plural": "Bäckereien",
+    "meaning": "bakery",
+    "example": "Ich besuche die Bäckerei jeden Morgen.",
+    "example_en": "I visit the bakery every morning."
+  },
+  {
+    "id": "backerei-Dativ",
+    "category": {
+      "name": "Places",
+      "slug": "places"
+    },
+    "article": "die",
+    "word": "Bäckerei",
+    "case_name": "Dativ",
+    "articleByCase": "der",
+    "wordByCase": "Bäckerei",
+    "plural": "Bäckereien",
+    "meaning": "bakery",
+    "example": "Ich kaufe Brot in der Bäckerei.",
+    "example_en": "I buy bread in the bakery."
+  },
+  {
+    "id": "backerei-Genitiv",
+    "category": {
+      "name": "Places",
+      "slug": "places"
+    },
+    "article": "die",
+    "word": "Bäckerei",
+    "case_name": "Genitiv",
+    "articleByCase": "der",
+    "wordByCase": "Bäckerei",
+    "plural": "Bäckereien",
+    "meaning": "bakery",
+    "example": "Die Fenster der Bäckerei sind sauber.",
+    "example_en": "The windows of the bakery are clean."
+  },
+  {
+    "id": "cafe-Nominativ",
+    "category": {
+      "name": "Places",
+      "slug": "places"
+    },
+    "article": "das",
+    "word": "Café",
+    "case_name": "Nominativ",
+    "articleByCase": "das",
+    "wordByCase": "Café",
+    "plural": "Cafés",
+    "meaning": "café",
+    "example": "Das Café ist sehr gemütlich.",
+    "example_en": "The café is very cozy."
+  },
+  {
+    "id": "cafe-Akkusativ",
+    "category": {
+      "name": "Places",
+      "slug": "places"
+    },
+    "article": "das",
+    "word": "Café",
+    "case_name": "Akkusativ",
+    "articleByCase": "das",
+    "wordByCase": "Café",
+    "plural": "Cafés",
+    "meaning": "café",
+    "example": "Wir besuchen das Café am Nachmittag.",
+    "example_en": "We visit the café in the afternoon."
+  },
+  {
+    "id": "cafe-Dativ",
+    "category": {
+      "name": "Places",
+      "slug": "places"
+    },
+    "article": "das",
+    "word": "Café",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Café",
+    "plural": "Cafés",
+    "meaning": "café",
+    "example": "Ich sitze gern in dem Café.",
+    "example_en": "I like sitting in the café."
+  },
+  {
+    "id": "cafe-Genitiv",
+    "category": {
+      "name": "Places",
+      "slug": "places"
+    },
+    "article": "das",
+    "word": "Café",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Cafés",
+    "plural": "Cafés",
+    "meaning": "café",
+    "example": "Die Atmosphäre des Cafés ist angenehm.",
+    "example_en": "The atmosphere of the café is pleasant."
+  },
+  {
+    "id": "fisch-Nominativ",
+    "category": {
+      "name": "Animals",
+      "slug": "animals"
+    },
+    "article": "der",
+    "word": "Fisch",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "Fisch",
+    "plural": "Fische",
+    "meaning": "fish",
+    "example": "Der Fisch schwimmt im Wasser.",
+    "example_en": "The fish swims in the water."
+  },
+  {
+    "id": "fisch-Akkusativ",
+    "category": {
+      "name": "Animals",
+      "slug": "animals"
+    },
+    "article": "der",
+    "word": "Fisch",
+    "case_name": "Akkusativ",
+    "articleByCase": "den",
+    "wordByCase": "Fisch",
+    "plural": "Fische",
+    "meaning": "fish",
+    "example": "Ich esse den Fisch zum Abendessen.",
+    "example_en": "I eat the fish for dinner."
+  },
+  {
+    "id": "fisch-Dativ",
+    "category": {
+      "name": "Animals",
+      "slug": "animals"
+    },
+    "article": "der",
+    "word": "Fisch",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Fisch",
+    "plural": "Fische",
+    "meaning": "fish",
+    "example": "Ich gebe dem Fisch Futter.",
+    "example_en": "I give food to the fish."
+  },
+  {
+    "id": "fisch-Genitiv",
+    "category": {
+      "name": "Animals",
+      "slug": "animals"
+    },
+    "article": "der",
+    "word": "Fisch",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Fisches",
+    "plural": "Fische",
+    "meaning": "fish",
+    "example": "Die Farbe des Fisches ist bunt.",
+    "example_en": "The color of the fish is colorful."
+  },
+  {
+    "id": "flugzeug-Nominativ",
+    "category": {
+      "name": "Transportation",
+      "slug": "transportation"
+    },
+    "article": "das",
+    "word": "Flugzeug",
+    "case_name": "Nominativ",
+    "articleByCase": "das",
+    "wordByCase": "Flugzeug",
+    "plural": "Flugzeuge",
+    "meaning": "airplane",
+    "example": "Das Flugzeug landet pünktlich.",
+    "example_en": "The airplane lands on time."
+  },
+  {
+    "id": "flugzeug-Akkusativ",
+    "category": {
+      "name": "Transportation",
+      "slug": "transportation"
+    },
+    "article": "das",
+    "word": "Flugzeug",
+    "case_name": "Akkusativ",
+    "articleByCase": "das",
+    "wordByCase": "Flugzeug",
+    "plural": "Flugzeuge",
+    "meaning": "airplane",
+    "example": "Wir sehen das Flugzeug am Himmel.",
+    "example_en": "We see the airplane in the sky."
+  },
+  {
+    "id": "flugzeug-Dativ",
+    "category": {
+      "name": "Transportation",
+      "slug": "transportation"
+    },
+    "article": "das",
+    "word": "Flugzeug",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Flugzeug",
+    "plural": "Flugzeuge",
+    "meaning": "airplane",
+    "example": "Die Kinder winken dem Flugzeug zu.",
+    "example_en": "The children wave at the airplane."
+  },
+  {
+    "id": "flugzeug-Genitiv",
+    "category": {
+      "name": "Transportation",
+      "slug": "transportation"
+    },
+    "article": "das",
+    "word": "Flugzeug",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Flugzeugs",
+    "plural": "Flugzeuge",
+    "meaning": "airplane",
+    "example": "Die Tür des Flugzeugs wurde geschlossen.",
+    "example_en": "The door of the airplane was closed."
+  },
+  {
+    "id": "fluss-Nominativ",
+    "category": {
+      "name": "Nature & Environment",
+      "slug": "nature-environment"
+    },
+    "article": "der",
+    "word": "Fluss",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "Fluss",
+    "plural": "Flüsse",
+    "meaning": "river",
+    "example": "Der Fluss fließt durch die Stadt.",
+    "example_en": "The river flows through the city."
+  },
+  {
+    "id": "fluss-Akkusativ",
+    "category": {
+      "name": "Nature & Environment",
+      "slug": "nature-environment"
+    },
+    "article": "der",
+    "word": "Fluss",
+    "case_name": "Akkusativ",
+    "articleByCase": "den",
+    "wordByCase": "Fluss",
+    "plural": "Flüsse",
+    "meaning": "river",
+    "example": "Wir überqueren den Fluss mit einer Brücke.",
+    "example_en": "We cross the river with a bridge."
+  },
+  {
+    "id": "fluss-Dativ",
+    "category": {
+      "name": "Nature & Environment",
+      "slug": "nature-environment"
+    },
+    "article": "der",
+    "word": "Fluss",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Fluss",
+    "plural": "Flüsse",
+    "meaning": "river",
+    "example": "Die Kinder spielen am dem Fluss.",
+    "example_en": "The children are playing by the river."
+  },
+  {
+    "id": "fluss-Genitiv",
+    "category": {
+      "name": "Nature & Environment",
+      "slug": "nature-environment"
+    },
+    "article": "der",
+    "word": "Fluss",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Flusses",
+    "plural": "Flüsse",
+    "meaning": "river",
+    "example": "Die Ufer des Flusses sind steinig.",
+    "example_en": "The banks of the river are rocky."
+  },
+  {
+    "id": "frau-Nominativ",
+    "category": {
+      "name": "People & Family",
+      "slug": "people-family"
+    },
+    "article": "die",
+    "word": "Frau",
+    "case_name": "Nominativ",
+    "articleByCase": "die",
+    "wordByCase": "Frau",
+    "plural": "die Frauen",
+    "meaning": "woman",
+    "example": "Die Frau trinkt einen Kaffee.",
+    "example_en": "The woman is drinking a coffee."
+  },
+  {
+    "id": "frau-Akkusativ",
+    "category": {
+      "name": "People & Family",
+      "slug": "people-family"
+    },
+    "article": "die",
+    "word": "Frau",
+    "case_name": "Akkusativ",
+    "articleByCase": "die",
+    "wordByCase": "Frau",
+    "plural": "die Frauen",
+    "meaning": "woman",
+    "example": "Ich sehe die Frau im Supermarkt.",
+    "example_en": "I see the woman in the supermarket."
+  },
+  {
+    "id": "frau-Dativ",
+    "category": {
+      "name": "People & Family",
+      "slug": "people-family"
+    },
+    "article": "die",
+    "word": "Frau",
+    "case_name": "Dativ",
+    "articleByCase": "der",
+    "wordByCase": "Frau",
+    "plural": "die Frauen",
+    "meaning": "woman",
+    "example": "Ich gebe der Frau die Schlüssel.",
+    "example_en": "I give the woman the keys."
+  },
+  {
+    "id": "frau-Genitiv",
+    "category": {
+      "name": "People & Family",
+      "slug": "people-family"
+    },
+    "article": "die",
+    "word": "Frau",
+    "case_name": "Genitiv",
+    "articleByCase": "der",
+    "wordByCase": "Frau",
+    "plural": "die Frauen",
+    "meaning": "woman",
+    "example": "Die Tasche der Frau ist rot.",
+    "example_en": "The woman's bag is red."
+  },
+  {
+    "id": "frühling-Nominativ",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "der",
+    "word": "Frühling",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "Frühling",
+    "plural": "Frühlinge",
+    "meaning": "spring (season)",
+    "example": "Der Frühling beginnt im März.",
+    "example_en": "Spring begins in March."
+  },
+  {
+    "id": "frühling-Akkusativ",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "der",
+    "word": "Frühling",
+    "case_name": "Akkusativ",
+    "articleByCase": "den",
+    "wordByCase": "Frühling",
+    "plural": "Frühlinge",
+    "meaning": "spring (season)",
+    "example": "Ich liebe den Frühling wegen der Blumen.",
+    "example_en": "I love spring because of the flowers."
+  },
+  {
+    "id": "frühling-Dativ",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "der",
+    "word": "Frühling",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Frühling",
+    "plural": "Frühlinge",
+    "meaning": "spring (season)",
+    "example": "Im Frühling wird das Wetter wärmer.",
+    "example_en": "In spring, the weather gets warmer."
+  },
+  {
+    "id": "frühling-Genitiv",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "der",
+    "word": "Frühling",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Frühlings",
+    "plural": "Frühlinge",
+    "meaning": "spring (season)",
+    "example": "Die Farben des Frühlings sind lebendig.",
+    "example_en": "The colors of spring are vibrant."
+  },
+  {
+    "id": "geld-Nominativ",
+    "category": {
+      "name": "Objects",
+      "slug": "objects"
+    },
+    "article": "das",
+    "word": "Geld",
+    "case_name": "Nominativ",
+    "articleByCase": "das",
+    "wordByCase": "Geld",
+    "plural": "",
+    "meaning": "money",
+    "example": "Das Geld ist auf dem Tisch.",
+    "example_en": "The money is on the table."
+  },
+  {
+    "id": "geld-Akkusativ",
+    "category": {
+      "name": "Objects",
+      "slug": "objects"
+    },
+    "article": "das",
+    "word": "Geld",
+    "case_name": "Akkusativ",
+    "articleByCase": "das",
+    "wordByCase": "Geld",
+    "plural": "",
+    "meaning": "money",
+    "example": "Er spart das Geld für eine Reise.",
+    "example_en": "He is saving the money for a trip."
+  },
+  {
+    "id": "geld-Dativ",
+    "category": {
+      "name": "Objects",
+      "slug": "objects"
+    },
+    "article": "das",
+    "word": "Geld",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Geld",
+    "plural": "",
+    "meaning": "money",
+    "example": "Mit dem Geld kann man viel kaufen.",
+    "example_en": "With the money, you can buy a lot."
+  },
+  {
+    "id": "geld-Genitiv",
+    "category": {
+      "name": "Objects",
+      "slug": "objects"
+    },
+    "article": "das",
+    "word": "Geld",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Geldes",
+    "plural": "",
+    "meaning": "money",
+    "example": "Der Wert des Geldes schwankt.",
+    "example_en": "The value of the money fluctuates."
+  },
+  {
+    "id": "geschenk-Nominativ",
+    "category": {
+      "name": "Others",
+      "slug": "others"
+    },
+    "article": "das",
+    "word": "Geschenk",
+    "case_name": "Nominativ",
+    "articleByCase": "das",
+    "wordByCase": "Geschenk",
+    "plural": "Geschenke",
+    "meaning": "gift / present",
+    "example": "Das Geschenk ist für meinen Bruder.",
+    "example_en": "The gift is for my brother."
+  },
+  {
+    "id": "geschenk-Akkusativ",
+    "category": {
+      "name": "Others",
+      "slug": "others"
+    },
+    "article": "das",
+    "word": "Geschenk",
+    "case_name": "Akkusativ",
+    "articleByCase": "das",
+    "wordByCase": "Geschenk",
+    "plural": "Geschenke",
+    "meaning": "gift / present",
+    "example": "Ich habe das Geschenk eingepackt.",
+    "example_en": "I wrapped the gift."
+  },
+  {
+    "id": "geschenk-Dativ",
+    "category": {
+      "name": "Others",
+      "slug": "others"
+    },
+    "article": "das",
+    "word": "Geschenk",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Geschenk",
+    "plural": "Geschenke",
+    "meaning": "gift / present",
+    "example": "Mit dem Geschenk hat sie ihn überrascht.",
+    "example_en": "She surprised him with the gift."
+  },
+  {
+    "id": "geschenk-Genitiv",
+    "category": {
+      "name": "Others",
+      "slug": "others"
+    },
+    "article": "das",
+    "word": "Geschenk",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Geschenks",
+    "plural": "Geschenke",
+    "meaning": "gift / present",
+    "example": "Der Wert des Geschenks war sehr hoch.",
+    "example_en": "The value of the gift was very high."
+  },
+  {
+    "id": "gitarre-Nominativ",
+    "category": {
+      "name": "Objects",
+      "slug": "objects"
+    },
+    "article": "die",
+    "word": "Gitarre",
+    "case_name": "Nominativ",
+    "articleByCase": "die",
+    "wordByCase": "Gitarre",
+    "plural": "Gitarren",
+    "meaning": "guitar",
+    "example": "Die Gitarre steht in der Ecke.",
+    "example_en": "The guitar is standing in the corner."
+  },
+  {
+    "id": "gitarre-Akkusativ",
+    "category": {
+      "name": "Objects",
+      "slug": "objects"
+    },
+    "article": "die",
+    "word": "Gitarre",
+    "case_name": "Akkusativ",
+    "articleByCase": "die",
+    "wordByCase": "Gitarre",
+    "plural": "Gitarren",
+    "meaning": "guitar",
+    "example": "Ich spiele die Gitarre jeden Abend.",
+    "example_en": "I play the guitar every evening."
+  },
+  {
+    "id": "gitarre-Dativ",
+    "category": {
+      "name": "Objects",
+      "slug": "objects"
+    },
+    "article": "die",
+    "word": "Gitarre",
+    "case_name": "Dativ",
+    "articleByCase": "der",
+    "wordByCase": "Gitarre",
+    "plural": "Gitarren",
+    "meaning": "guitar",
+    "example": "Ich schenke der Gitarre neue Saiten.",
+    "example_en": "I'm giving the guitar new strings."
+  },
+  {
+    "id": "gitarre-Genitiv",
+    "category": {
+      "name": "Objects",
+      "slug": "objects"
+    },
+    "article": "die",
+    "word": "Gitarre",
+    "case_name": "Genitiv",
+    "articleByCase": "der",
+    "wordByCase": "Gitarre",
+    "plural": "Gitarren",
+    "meaning": "guitar",
+    "example": "Der Klang der Gitarre ist wunderschön.",
+    "example_en": "The sound of the guitar is beautiful."
+  },
+  {
+    "id": "glück-Nominativ",
+    "category": {
+      "name": "Emotions",
+      "slug": "emotions"
+    },
+    "article": "das",
+    "word": "Glück",
+    "case_name": "Nominativ",
+    "articleByCase": "das",
+    "wordByCase": "Glück",
+    "plural": "",
+    "meaning": "luck / happiness",
+    "example": "Das Glück ist manchmal schwer zu finden.",
+    "example_en": "Happiness is sometimes hard to find."
+  },
+  {
+    "id": "glück-Akkusativ",
+    "category": {
+      "name": "Emotions",
+      "slug": "emotions"
+    },
+    "article": "das",
+    "word": "Glück",
+    "case_name": "Akkusativ",
+    "articleByCase": "das",
+    "wordByCase": "Glück",
+    "plural": "",
+    "meaning": "luck / happiness",
+    "example": "Ich wünsche dir das Glück der Welt.",
+    "example_en": "I wish you all the luck in the world."
+  },
+  {
+    "id": "glück-Dativ",
+    "category": {
+      "name": "Emotions",
+      "slug": "emotions"
+    },
+    "article": "das",
+    "word": "Glück",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Glück",
+    "plural": "",
+    "meaning": "luck / happiness",
+    "example": "Mit dem Glück auf meiner Seite schaffe ich alles.",
+    "example_en": "With luck on my side, I can do anything."
+  },
+  {
+    "id": "glück-Genitiv",
+    "category": {
+      "name": "Emotions",
+      "slug": "emotions"
+    },
+    "article": "das",
+    "word": "Glück",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Glücks",
+    "plural": "",
+    "meaning": "luck / happiness",
+    "example": "Die Bedeutung des Glücks ist für jeden anders.",
+    "example_en": "The meaning of happiness is different for everyone."
+  },
+  {
+    "id": "gras-Nominativ",
+    "category": {
+      "name": "Nature & Environment",
+      "slug": "nature-environment"
+    },
+    "article": "das",
+    "word": "Gras",
+    "case_name": "Nominativ",
+    "articleByCase": "das",
+    "wordByCase": "Gras",
+    "plural": "Gräser",
+    "meaning": "grass",
+    "example": "Das Gras ist grün und weich.",
+    "example_en": "The grass is green and soft."
+  },
+  {
+    "id": "gras-Akkusativ",
+    "category": {
+      "name": "Nature & Environment",
+      "slug": "nature-environment"
+    },
+    "article": "das",
+    "word": "Gras",
+    "case_name": "Akkusativ",
+    "articleByCase": "das",
+    "wordByCase": "Gras",
+    "plural": "Gräser",
+    "meaning": "grass",
+    "example": "Der Hund läuft über das Gras.",
+    "example_en": "The dog runs across the grass."
+  },
+  {
+    "id": "gras-Dativ",
+    "category": {
+      "name": "Nature & Environment",
+      "slug": "nature-environment"
+    },
+    "article": "das",
+    "word": "Gras",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Gras",
+    "plural": "Gräser",
+    "meaning": "grass",
+    "example": "Die Kinder spielen auf dem Gras.",
+    "example_en": "The children are playing on the grass."
+  },
+  {
+    "id": "gras-Genitiv",
+    "category": {
+      "name": "Nature & Environment",
+      "slug": "nature-environment"
+    },
+    "article": "das",
+    "word": "Gras",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Grases",
+    "plural": "Gräser",
+    "meaning": "grass",
+    "example": "Die Farbe des Grases verändert sich im Herbst.",
+    "example_en": "The color of the grass changes in autumn."
+  },
+  {
+    "id": "herbst-Nominativ",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "der",
+    "word": "Herbst",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "Herbst",
+    "plural": "",
+    "meaning": "autumn / fall",
+    "example": "Der Herbst beginnt im September.",
+    "example_en": "Autumn begins in September."
+  },
+  {
+    "id": "herbst-Akkusativ",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "der",
+    "word": "Herbst",
+    "case_name": "Akkusativ",
+    "articleByCase": "den",
+    "wordByCase": "Herbst",
+    "plural": "",
+    "meaning": "autumn / fall",
+    "example": "Ich liebe den Herbst wegen der Farben.",
+    "example_en": "I love autumn because of the colors."
+  },
+  {
+    "id": "herbst-Dativ",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "der",
+    "word": "Herbst",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Herbst",
+    "plural": "",
+    "meaning": "autumn / fall",
+    "example": "Im Herbst wird es kühler.",
+    "example_en": "It gets cooler in autumn."
+  },
+  {
+    "id": "herbst-Genitiv",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "der",
+    "word": "Herbst",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Herbstes",
+    "plural": "",
+    "meaning": "autumn / fall",
+    "example": "Die Farben des Herbstes sind wunderschön.",
+    "example_en": "The colors of autumn are beautiful."
+  },
+  {
+    "id": "hund-Nominativ",
+    "category": {
+      "name": "Animals",
+      "slug": "animals"
+    },
+    "article": "der",
+    "word": "Hund",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "Hund",
+    "plural": "die Hunde",
+    "meaning": "dog",
+    "example": "Der Hund bellt laut.",
+    "example_en": "The dog is barking loudly."
+  },
+  {
+    "id": "hund-Akkusativ",
+    "category": {
+      "name": "Animals",
+      "slug": "animals"
+    },
+    "article": "der",
+    "word": "Hund",
+    "case_name": "Akkusativ",
+    "articleByCase": "den",
+    "wordByCase": "Hund",
+    "plural": "die Hunde",
+    "meaning": "dog",
+    "example": "Ich streichle den Hund.",
+    "example_en": "I pet the dog."
+  },
+  {
+    "id": "hund-Dativ",
+    "category": {
+      "name": "Animals",
+      "slug": "animals"
+    },
+    "article": "der",
+    "word": "Hund",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Hund",
+    "plural": "die Hunde",
+    "meaning": "dog",
+    "example": "Ich gebe dem Hund Wasser.",
+    "example_en": "I give the dog water."
+  },
+  {
+    "id": "hund-Genitiv",
+    "category": {
+      "name": "Animals",
+      "slug": "animals"
+    },
+    "article": "der",
+    "word": "Hund",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Hundes",
+    "plural": "die Hunde",
+    "meaning": "dog",
+    "example": "Das Spielzeug des Hundes ist kaputt.",
+    "example_en": "The dog's toy is broken."
+  },
+  {
+    "id": "jahr-Nominativ",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "das",
+    "word": "Jahr",
+    "case_name": "Nominativ",
+    "articleByCase": "das",
+    "wordByCase": "Jahr",
+    "plural": "Jahre",
+    "meaning": "year",
+    "example": "Das Jahr beginnt im Januar.",
+    "example_en": "The year begins in January."
+  },
+  {
+    "id": "jahr-Akkusativ",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "das",
+    "word": "Jahr",
+    "case_name": "Akkusativ",
+    "articleByCase": "das",
+    "wordByCase": "Jahr",
+    "plural": "Jahre",
+    "meaning": "year",
+    "example": "Ich habe das Jahr gut genutzt.",
+    "example_en": "I used the year well."
+  },
+  {
+    "id": "jahr-Dativ",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "das",
+    "word": "Jahr",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Jahr",
+    "plural": "Jahre",
+    "meaning": "year",
+    "example": "Im Jahr 2020 habe ich viel gelernt.",
+    "example_en": "In the year 2020, I learned a lot."
+  },
+  {
+    "id": "jahr-Genitiv",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "das",
+    "word": "Jahr",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Jahres",
+    "plural": "Jahre",
+    "meaning": "year",
+    "example": "Die Ereignisse des Jahres waren bedeutend.",
+    "example_en": "The events of the year were significant."
+  },
+  {
+    "id": "kaffee-Nominativ",
+    "category": {
+      "name": "Food & Drinks",
+      "slug": "food-drinks"
+    },
+    "article": "der",
+    "word": "Kaffee",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "Kaffee",
+    "plural": "die Kaffees",
+    "meaning": "coffee",
+    "example": "Der Kaffee ist heiß.",
+    "example_en": "The coffee is hot."
+  },
+  {
+    "id": "kaffee-Akkusativ",
+    "category": {
+      "name": "Food & Drinks",
+      "slug": "food-drinks"
+    },
+    "article": "der",
+    "word": "Kaffee",
+    "case_name": "Akkusativ",
+    "articleByCase": "den",
+    "wordByCase": "Kaffee",
+    "plural": "die Kaffees",
+    "meaning": "coffee",
+    "example": "Ich trinke den Kaffee mit Milch.",
+    "example_en": "I drink the coffee with milk."
+  },
+  {
+    "id": "kaffee-Dativ",
+    "category": {
+      "name": "Food & Drinks",
+      "slug": "food-drinks"
+    },
+    "article": "der",
+    "word": "Kaffee",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Kaffee",
+    "plural": "die Kaffees",
+    "meaning": "coffee",
+    "example": "Ich füge dem Kaffee etwas Zucker hinzu.",
+    "example_en": "I add some sugar to the coffee."
+  },
+  {
+    "id": "kaffee-Genitiv",
+    "category": {
+      "name": "Food & Drinks",
+      "slug": "food-drinks"
+    },
+    "article": "der",
+    "word": "Kaffee",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Kaffees",
+    "plural": "die Kaffees",
+    "meaning": "coffee",
+    "example": "Der Duft des Kaffees ist angenehm.",
+    "example_en": "The aroma of the coffee is pleasant."
+  },
+  {
+    "id": "katze-Nominativ",
+    "category": {
+      "name": "Animals",
+      "slug": "animals"
+    },
+    "article": "die",
+    "word": "Katze",
+    "case_name": "Nominativ",
+    "articleByCase": "die",
+    "wordByCase": "Katze",
+    "plural": "die Katzen",
+    "meaning": "cat",
+    "example": "Die Katze schläft auf dem Sofa.",
+    "example_en": "The cat is sleeping on the sofa."
+  },
+  {
+    "id": "katze-Akkusativ",
+    "category": {
+      "name": "Animals",
+      "slug": "animals"
+    },
+    "article": "die",
+    "word": "Katze",
+    "case_name": "Akkusativ",
+    "articleByCase": "die",
+    "wordByCase": "Katze",
+    "plural": "die Katzen",
+    "meaning": "cat",
+    "example": "Ich streichle die Katze.",
+    "example_en": "I pet the cat."
+  },
+  {
+    "id": "katze-Dativ",
+    "category": {
+      "name": "Animals",
+      "slug": "animals"
+    },
+    "article": "die",
+    "word": "Katze",
+    "case_name": "Dativ",
+    "articleByCase": "der",
+    "wordByCase": "Katze",
+    "plural": "die Katzen",
+    "meaning": "cat",
+    "example": "Ich gebe der Katze Milch.",
+    "example_en": "I give the cat milk."
+  },
+  {
+    "id": "katze-Genitiv",
+    "category": {
+      "name": "Animals",
+      "slug": "animals"
+    },
+    "article": "die",
+    "word": "Katze",
+    "case_name": "Genitiv",
+    "articleByCase": "der",
+    "wordByCase": "Katze",
+    "plural": "die Katzen",
+    "meaning": "cat",
+    "example": "Das Fell der Katze ist weich.",
+    "example_en": "The cat's fur is soft."
+  },
+  {
+    "id": "kind-Nominativ",
+    "category": {
+      "name": "People & Family",
+      "slug": "people-family"
+    },
+    "article": "das",
+    "word": "Kind",
+    "case_name": "Nominativ",
+    "articleByCase": "das",
+    "wordByCase": "Kind",
+    "plural": "Kinder",
+    "meaning": "child",
+    "example": "Das Kind malt ein Bild.",
+    "example_en": "The child is drawing a picture."
+  },
+  {
+    "id": "kind-Akkusativ",
+    "category": {
+      "name": "People & Family",
+      "slug": "people-family"
+    },
+    "article": "das",
+    "word": "Kind",
+    "case_name": "Akkusativ",
+    "articleByCase": "das",
+    "wordByCase": "Kind",
+    "plural": "Kinder",
+    "meaning": "child",
+    "example": "Ich sehe das Kind im Park.",
+    "example_en": "I see the child in the park."
+  },
+  {
+    "id": "kind-Dativ",
+    "category": {
+      "name": "People & Family",
+      "slug": "people-family"
+    },
+    "article": "das",
+    "word": "Kind",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Kind",
+    "plural": "Kinder",
+    "meaning": "child",
+    "example": "Ich lese dem Kind ein Buch vor.",
+    "example_en": "I read a book to the child."
+  },
+  {
+    "id": "kind-Genitiv",
+    "category": {
+      "name": "People & Family",
+      "slug": "people-family"
+    },
+    "article": "das",
+    "word": "Kind",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Kindes",
+    "plural": "Kinder",
+    "meaning": "child",
+    "example": "Die Spielsachen des Kindes liegen überall.",
+    "example_en": "The child's toys are everywhere."
+  },
+  {
+    "id": "klavier-Nominativ",
+    "category": {
+      "name": "Objects",
+      "slug": "objects"
+    },
+    "article": "das",
+    "word": "Klavier",
+    "case_name": "Nominativ",
+    "articleByCase": "das",
+    "wordByCase": "Klavier",
+    "plural": "Klaviere",
+    "meaning": "piano",
+    "example": "Das Klavier steht im Wohnzimmer.",
+    "example_en": "The piano is in the living room."
+  },
+  {
+    "id": "klavier-Akkusativ",
+    "category": {
+      "name": "Objects",
+      "slug": "objects"
+    },
+    "article": "das",
+    "word": "Klavier",
+    "case_name": "Akkusativ",
+    "articleByCase": "das",
+    "wordByCase": "Klavier",
+    "plural": "Klaviere",
+    "meaning": "piano",
+    "example": "Er spielt das Klavier jeden Tag.",
+    "example_en": "He plays the piano every day."
+  },
+  {
+    "id": "klavier-Dativ",
+    "category": {
+      "name": "Objects",
+      "slug": "objects"
+    },
+    "article": "das",
+    "word": "Klavier",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Klavier",
+    "plural": "Klaviere",
+    "meaning": "piano",
+    "example": "Mit dem Klavier komponiert sie Musik.",
+    "example_en": "She composes music with the piano."
+  },
+  {
+    "id": "klavier-Genitiv",
+    "category": {
+      "name": "Objects",
+      "slug": "objects"
+    },
+    "article": "das",
+    "word": "Klavier",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Klaviers",
+    "plural": "Klaviere",
+    "meaning": "piano",
+    "example": "Der Klang des Klaviers ist wunderschön.",
+    "example_en": "The sound of the piano is beautiful."
+  },
+  {
+    "id": "käse-Nominativ",
+    "category": {
+      "name": "Food & Drinks",
+      "slug": "food-drinks"
+    },
+    "article": "der",
+    "word": "Käse",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "Käse",
+    "plural": "Käse",
+    "meaning": "cheese",
+    "example": "Der Käse ist frisch und lecker.",
+    "example_en": "The cheese is fresh and tasty."
+  },
+  {
+    "id": "käse-Akkusativ",
+    "category": {
+      "name": "Food & Drinks",
+      "slug": "food-drinks"
+    },
+    "article": "der",
+    "word": "Käse",
+    "case_name": "Akkusativ",
+    "articleByCase": "den",
+    "wordByCase": "Käse",
+    "plural": "Käse",
+    "meaning": "cheese",
+    "example": "Ich kaufe den Käse im Supermarkt.",
+    "example_en": "I buy the cheese at the supermarket."
+  },
+  {
+    "id": "käse-Dativ",
+    "category": {
+      "name": "Food & Drinks",
+      "slug": "food-drinks"
+    },
+    "article": "der",
+    "word": "Käse",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Käse",
+    "plural": "Käse",
+    "meaning": "cheese",
+    "example": "Ich gebe dem Käse etwas Zeit zum Reifen.",
+    "example_en": "I give the cheese some time to mature."
+  },
+  {
+    "id": "käse-Genitiv",
+    "category": {
+      "name": "Food & Drinks",
+      "slug": "food-drinks"
+    },
+    "article": "der",
+    "word": "Käse",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Käses",
+    "plural": "Käse",
+    "meaning": "cheese",
+    "example": "Der Geschmack des Käses ist stark.",
+    "example_en": "The taste of the cheese is strong."
+  },
+  {
+    "id": "lampe-Nominativ",
+    "category": {
+      "name": "Objects",
+      "slug": "objects"
+    },
+    "article": "die",
+    "word": "Lampe",
+    "case_name": "Nominativ",
+    "articleByCase": "die",
+    "wordByCase": "Lampe",
+    "plural": "Lampen",
+    "meaning": "lamp",
+    "example": "Die Lampe steht auf dem Tisch.",
+    "example_en": "The lamp is on the table."
+  },
+  {
+    "id": "lampe-Akkusativ",
+    "category": {
+      "name": "Objects",
+      "slug": "objects"
+    },
+    "article": "die",
+    "word": "Lampe",
+    "case_name": "Akkusativ",
+    "articleByCase": "die",
+    "wordByCase": "Lampe",
+    "plural": "Lampen",
+    "meaning": "lamp",
+    "example": "Ich kaufe die Lampe.",
+    "example_en": "I am buying the lamp."
+  },
+  {
+    "id": "lampe-Dativ",
+    "category": {
+      "name": "Objects",
+      "slug": "objects"
+    },
+    "article": "die",
+    "word": "Lampe",
+    "case_name": "Dativ",
+    "articleByCase": "der",
+    "wordByCase": "Lampe",
+    "plural": "Lampen",
+    "meaning": "lamp",
+    "example": "Ich gebe der Lampe einen neuen Schirm.",
+    "example_en": "I give the lamp a new shade."
+  },
+  {
+    "id": "lampe-Genitiv",
+    "category": {
+      "name": "Objects",
+      "slug": "objects"
+    },
+    "article": "die",
+    "word": "Lampe",
+    "case_name": "Genitiv",
+    "articleByCase": "der",
+    "wordByCase": "Lampe",
+    "plural": "Lampen",
+    "meaning": "lamp",
+    "example": "Das Licht der Lampe ist sehr stark.",
+    "example_en": "The light of the lamp is very bright."
+  },
+  {
+    "id": "lehrer-Nominativ",
+    "category": {
+      "name": "Professions",
+      "slug": "professions"
+    },
+    "article": "der",
+    "word": "Lehrer",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "Lehrer",
+    "plural": "Lehrer",
+    "meaning": "teacher (male)",
+    "example": "Der Lehrer erklärt die Grammatik.",
+    "example_en": "The teacher explains the grammar."
+  },
+  {
+    "id": "lehrer-Akkusativ",
+    "category": {
+      "name": "Professions",
+      "slug": "professions"
+    },
+    "article": "der",
+    "word": "Lehrer",
+    "case_name": "Akkusativ",
+    "articleByCase": "den",
+    "wordByCase": "Lehrer",
+    "plural": "Lehrer",
+    "meaning": "teacher (male)",
+    "example": "Ich sehe den Lehrer im Klassenzimmer.",
+    "example_en": "I see the teacher in the classroom."
+  },
+  {
+    "id": "lehrer-Dativ",
+    "category": {
+      "name": "Professions",
+      "slug": "professions"
+    },
+    "article": "der",
+    "word": "Lehrer",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Lehrer",
+    "plural": "Lehrer",
+    "meaning": "teacher (male)",
+    "example": "Ich gebe dem Lehrer das Heft.",
+    "example_en": "I give the notebook to the teacher."
+  },
+  {
+    "id": "lehrer-Genitiv",
+    "category": {
+      "name": "Professions",
+      "slug": "professions"
+    },
+    "article": "der",
+    "word": "Lehrer",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Lehrers",
+    "plural": "Lehrer",
+    "meaning": "teacher (male)",
+    "example": "Das Buch des Lehrers ist interessant.",
+    "example_en": "The teacher’s book is interesting."
+  },
+  {
+    "id": "lehrerin-Nominativ",
+    "category": {
+      "name": "Professions",
+      "slug": "professions"
+    },
+    "article": "die",
+    "word": "Lehrerin",
+    "case_name": "Nominativ",
+    "articleByCase": "die",
+    "wordByCase": "Lehrerin",
+    "plural": "Lehrerinnen",
+    "meaning": "teacher (female)",
+    "example": "Die Lehrerin schreibt an die Tafel.",
+    "example_en": "The teacher writes on the board."
+  },
+  {
+    "id": "lehrerin-Akkusativ",
+    "category": {
+      "name": "Professions",
+      "slug": "professions"
+    },
+    "article": "die",
+    "word": "Lehrerin",
+    "case_name": "Akkusativ",
+    "articleByCase": "die",
+    "wordByCase": "Lehrerin",
+    "plural": "Lehrerinnen",
+    "meaning": "teacher (female)",
+    "example": "Ich sehe die Lehrerin im Flur.",
+    "example_en": "I see the teacher in the hallway."
+  },
+  {
+    "id": "lehrerin-Dativ",
+    "category": {
+      "name": "Professions",
+      "slug": "professions"
+    },
+    "article": "die",
+    "word": "Lehrerin",
+    "case_name": "Dativ",
+    "articleByCase": "der",
+    "wordByCase": "Lehrerin",
+    "plural": "Lehrerinnen",
+    "meaning": "teacher (female)",
+    "example": "Ich gebe der Lehrerin ein Geschenk.",
+    "example_en": "I give the teacher a gift."
+  },
+  {
+    "id": "lehrerin-Genitiv",
+    "category": {
+      "name": "Professions",
+      "slug": "professions"
+    },
+    "article": "die",
+    "word": "Lehrerin",
+    "case_name": "Genitiv",
+    "articleByCase": "der",
+    "wordByCase": "Lehrerin",
+    "plural": "Lehrerinnen",
+    "meaning": "teacher (female)",
+    "example": "Die Tasche der Lehrerin ist schwarz.",
+    "example_en": "The teacher's bag is black."
+  },
+  {
+    "id": "lust-Nominativ",
+    "category": {
+      "name": "Emotions",
+      "slug": "emotions"
+    },
+    "article": "die",
+    "word": "Lust",
+    "case_name": "Nominativ",
+    "articleByCase": "die",
+    "wordByCase": "Lust",
+    "plural": "Lüste",
+    "meaning": "desire / pleasure / interest",
+    "example": "Die Lust auf Schokolade ist heute sehr groß.",
+    "example_en": "The desire for chocolate is very strong today."
+  },
+  {
+    "id": "lust-Akkusativ",
+    "category": {
+      "name": "Emotions",
+      "slug": "emotions"
+    },
+    "article": "die",
+    "word": "Lust",
+    "case_name": "Akkusativ",
+    "articleByCase": "die",
+    "wordByCase": "Lust",
+    "plural": "Lüste",
+    "meaning": "desire / pleasure / interest",
+    "example": "Ich habe die Lust auf Sport verloren.",
+    "example_en": "I’ve lost the desire to do sports."
+  },
+  {
+    "id": "lust-Dativ",
+    "category": {
+      "name": "Emotions",
+      "slug": "emotions"
+    },
+    "article": "die",
+    "word": "Lust",
+    "case_name": "Dativ",
+    "articleByCase": "der",
+    "wordByCase": "Lust",
+    "plural": "Lüste",
+    "meaning": "desire / pleasure / interest",
+    "example": "Mit der Lust kommt auch die Motivation.",
+    "example_en": "Motivation comes with desire as well."
+  },
+  {
+    "id": "lust-Genitiv",
+    "category": {
+      "name": "Emotions",
+      "slug": "emotions"
+    },
+    "article": "die",
+    "word": "Lust",
+    "case_name": "Genitiv",
+    "articleByCase": "der",
+    "wordByCase": "Lust",
+    "plural": "Lüste",
+    "meaning": "desire / pleasure / interest",
+    "example": "Der Grund der Lust ist nicht immer klar.",
+    "example_en": "The reason for the desire is not always clear."
+  },
+  {
+    "id": "mann-Nominativ",
+    "category": {
+      "name": "People & Family",
+      "slug": "people-family"
+    },
+    "article": "der",
+    "word": "Mann",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "Mann",
+    "plural": "die Männer",
+    "meaning": "man",
+    "example": "Der Mann liest ein Buch.",
+    "example_en": "The man is reading a book."
+  },
+  {
+    "id": "mann-Akkusativ",
+    "category": {
+      "name": "People & Family",
+      "slug": "people-family"
+    },
+    "article": "der",
+    "word": "Mann",
+    "case_name": "Akkusativ",
+    "articleByCase": "den",
+    "wordByCase": "Mann",
+    "plural": "die Männer",
+    "meaning": "man",
+    "example": "Ich sehe den Mann im Café.",
+    "example_en": "I see the man in the café."
+  },
+  {
+    "id": "mann-Dativ",
+    "category": {
+      "name": "People & Family",
+      "slug": "people-family"
+    },
+    "article": "der",
+    "word": "Mann",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Mann",
+    "plural": "die Männer",
+    "meaning": "man",
+    "example": "Ich spreche mit dem Mann.",
+    "example_en": "I am speaking with the man."
+  },
+  {
+    "id": "mann-Genitiv",
+    "category": {
+      "name": "People & Family",
+      "slug": "people-family"
+    },
+    "article": "der",
+    "word": "Mann",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Mannes",
+    "plural": "die Männer",
+    "meaning": "man",
+    "example": "Die Tasche des Mannes ist schwarz.",
+    "example_en": "The man's bag is black."
+  },
+  {
+    "id": "meer-Nominativ",
+    "category": {
+      "name": "Nature & Environment",
+      "slug": "nature-environment"
+    },
+    "article": "das",
+    "word": "Meer",
+    "case_name": "Nominativ",
+    "articleByCase": "das",
+    "wordByCase": "Meer",
+    "plural": "Meere",
+    "meaning": "sea",
+    "example": "Das Meer ist heute ruhig.",
+    "example_en": "The sea is calm today."
+  },
+  {
+    "id": "meer-Akkusativ",
+    "category": {
+      "name": "Nature & Environment",
+      "slug": "nature-environment"
+    },
+    "article": "das",
+    "word": "Meer",
+    "case_name": "Akkusativ",
+    "articleByCase": "das",
+    "wordByCase": "Meer",
+    "plural": "Meere",
+    "meaning": "sea",
+    "example": "Wir sehen das Meer vom Balkon.",
+    "example_en": "We see the sea from the balcony."
+  },
+  {
+    "id": "meer-Dativ",
+    "category": {
+      "name": "Nature & Environment",
+      "slug": "nature-environment"
+    },
+    "article": "das",
+    "word": "Meer",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Meer",
+    "plural": "Meere",
+    "meaning": "sea",
+    "example": "Ich fahre mit meiner Familie zum Meer.",
+    "example_en": "I’m going to the sea with my family."
+  },
+  {
+    "id": "meer-Genitiv",
+    "category": {
+      "name": "Nature & Environment",
+      "slug": "nature-environment"
+    },
+    "article": "das",
+    "word": "Meer",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Meeres",
+    "plural": "Meere",
+    "meaning": "sea",
+    "example": "Die Tiefe des Meeres ist beeindruckend.",
+    "example_en": "The depth of the sea is impressive."
+  },
+  {
+    "id": "milch-Nominativ",
+    "category": {
+      "name": "Food & Drinks",
+      "slug": "food-drinks"
+    },
+    "article": "die",
+    "word": "Milch",
+    "case_name": "Nominativ",
+    "articleByCase": "die",
+    "wordByCase": "Milch",
+    "plural": "",
+    "meaning": "milk",
+    "example": "Die Milch ist frisch.",
+    "example_en": "The milk is fresh."
+  },
+  {
+    "id": "milch-Akkusativ",
+    "category": {
+      "name": "Food & Drinks",
+      "slug": "food-drinks"
+    },
+    "article": "die",
+    "word": "Milch",
+    "case_name": "Akkusativ",
+    "articleByCase": "die",
+    "wordByCase": "Milch",
+    "plural": "",
+    "meaning": "milk",
+    "example": "Ich kaufe die Milch im Supermarkt.",
+    "example_en": "I buy the milk at the supermarket."
+  },
+  {
+    "id": "milch-Dativ",
+    "category": {
+      "name": "Food & Drinks",
+      "slug": "food-drinks"
+    },
+    "article": "die",
+    "word": "Milch",
+    "case_name": "Dativ",
+    "articleByCase": "der",
+    "wordByCase": "Milch",
+    "plural": "",
+    "meaning": "milk",
+    "example": "Ich gebe der Milch etwas Zucker.",
+    "example_en": "I add some sugar to the milk."
+  },
+  {
+    "id": "milch-Genitiv",
+    "category": {
+      "name": "Food & Drinks",
+      "slug": "food-drinks"
+    },
+    "article": "die",
+    "word": "Milch",
+    "case_name": "Genitiv",
+    "articleByCase": "der",
+    "wordByCase": "Milch",
+    "plural": "",
+    "meaning": "milk",
+    "example": "Der Geschmack der Milch ist süß.",
+    "example_en": "The taste of the milk is sweet."
+  },
+  {
+    "id": "museum-Nominativ",
+    "category": {
+      "name": "Places",
+      "slug": "places"
+    },
+    "article": "das",
+    "word": "Museum",
+    "case_name": "Nominativ",
+    "articleByCase": "das",
+    "wordByCase": "Museum",
+    "plural": "Museen",
+    "meaning": "museum",
+    "example": "Das Museum ist sehr interessant.",
+    "example_en": "The museum is very interesting."
+  },
+  {
+    "id": "museum-Akkusativ",
+    "category": {
+      "name": "Places",
+      "slug": "places"
+    },
+    "article": "das",
+    "word": "Museum",
+    "case_name": "Akkusativ",
+    "articleByCase": "das",
+    "wordByCase": "Museum",
+    "plural": "Museen",
+    "meaning": "museum",
+    "example": "Wir besuchen das Museum morgen.",
+    "example_en": "We are visiting the museum tomorrow."
+  },
+  {
+    "id": "museum-Dativ",
+    "category": {
+      "name": "Places",
+      "slug": "places"
+    },
+    "article": "das",
+    "word": "Museum",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Museum",
+    "plural": "Museen",
+    "meaning": "museum",
+    "example": "Im Museum gibt es viele Ausstellungen.",
+    "example_en": "There are many exhibitions in the museum."
+  },
+  {
+    "id": "museum-Genitiv",
+    "category": {
+      "name": "Places",
+      "slug": "places"
+    },
+    "article": "das",
+    "word": "Museum",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Museums",
+    "plural": "Museen",
+    "meaning": "museum",
+    "example": "Die Türen des Museums sind geschlossen.",
+    "example_en": "The doors of the museum are closed."
+  },
+  {
+    "id": "mutter-Nominativ",
+    "category": {
+      "name": "People & Family",
+      "slug": "people-family"
+    },
+    "article": "die",
+    "word": "Mutter",
+    "case_name": "Nominativ",
+    "articleByCase": "die",
+    "wordByCase": "Mutter",
+    "plural": "die Mütter",
+    "meaning": "mother",
+    "example": "Die Mutter kocht das Abendessen.",
+    "example_en": "The mother is cooking dinner."
+  },
+  {
+    "id": "mutter-Akkusativ",
+    "category": {
+      "name": "People & Family",
+      "slug": "people-family"
+    },
+    "article": "die",
+    "word": "Mutter",
+    "case_name": "Akkusativ",
+    "articleByCase": "die",
+    "wordByCase": "Mutter",
+    "plural": "die Mütter",
+    "meaning": "mother",
+    "example": "Ich umarme die Mutter.",
+    "example_en": "I hug the mother."
+  },
+  {
+    "id": "mutter-Dativ",
+    "category": {
+      "name": "People & Family",
+      "slug": "people-family"
+    },
+    "article": "die",
+    "word": "Mutter",
+    "case_name": "Dativ",
+    "articleByCase": "der",
+    "wordByCase": "Mutter",
+    "plural": "die Mütter",
+    "meaning": "mother",
+    "example": "Ich gebe der Mutter ein Geschenk.",
+    "example_en": "I give the mother a gift."
+  },
+  {
+    "id": "mutter-Genitiv",
+    "category": {
+      "name": "People & Family",
+      "slug": "people-family"
+    },
+    "article": "die",
+    "word": "Mutter",
+    "case_name": "Genitiv",
+    "articleByCase": "der",
+    "wordByCase": "Mutter",
+    "plural": "die Mütter",
+    "meaning": "mother",
+    "example": "Das Buch der Mutter liegt auf dem Tisch.",
+    "example_en": "The mother's book is on the table."
+  },
+  {
+    "id": "mädchen-Nominativ",
+    "category": {
+      "name": "People & Family",
+      "slug": "people-family"
+    },
+    "article": "das",
+    "word": "Mädchen",
+    "case_name": "Nominativ",
+    "articleByCase": "das",
+    "wordByCase": "Mädchen",
+    "plural": "Mädchen",
+    "meaning": "girl",
+    "example": "Das Mädchen spielt im Garten.",
+    "example_en": "The girl is playing in the garden."
+  },
+  {
+    "id": "mädchen-Akkusativ",
+    "category": {
+      "name": "People & Family",
+      "slug": "people-family"
+    },
+    "article": "das",
+    "word": "Mädchen",
+    "case_name": "Akkusativ",
+    "articleByCase": "das",
+    "wordByCase": "Mädchen",
+    "plural": "Mädchen",
+    "meaning": "girl",
+    "example": "Ich sehe das Mädchen am Fenster.",
+    "example_en": "I see the girl at the window."
+  },
+  {
+    "id": "mädchen-Dativ",
+    "category": {
+      "name": "People & Family",
+      "slug": "people-family"
+    },
+    "article": "das",
+    "word": "Mädchen",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Mädchen",
+    "plural": "Mädchen",
+    "meaning": "girl",
+    "example": "Ich helfe dem Mädchen mit den Hausaufgaben.",
+    "example_en": "I help the girl with her homework."
+  },
+  {
+    "id": "mädchen-Genitiv",
+    "category": {
+      "name": "People & Family",
+      "slug": "people-family"
+    },
+    "article": "das",
+    "word": "Mädchen",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Mädchens",
+    "plural": "Mädchen",
+    "meaning": "girl",
+    "example": "Die Mutter des Mädchens ist Lehrerin.",
+    "example_en": "The girl's mother is a teacher."
+  },
+  {
+    "id": "park-Nominativ",
+    "category": {
+      "name": "Places",
+      "slug": "places"
+    },
+    "article": "der",
+    "word": "Park",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "Park",
+    "plural": "Parks",
+    "meaning": "park",
+    "example": "Der Park ist sehr grün und ruhig.",
+    "example_en": "The park is very green and quiet."
+  },
+  {
+    "id": "park-Akkusativ",
+    "category": {
+      "name": "Places",
+      "slug": "places"
+    },
+    "article": "der",
+    "word": "Park",
+    "case_name": "Akkusativ",
+    "articleByCase": "den",
+    "wordByCase": "Park",
+    "plural": "Parks",
+    "meaning": "park",
+    "example": "Wir besuchen den Park am Wochenende.",
+    "example_en": "We visit the park on the weekend."
+  },
+  {
+    "id": "park-Dativ",
+    "category": {
+      "name": "Places",
+      "slug": "places"
+    },
+    "article": "der",
+    "word": "Park",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Park",
+    "plural": "Parks",
+    "meaning": "park",
+    "example": "Die Kinder spielen im Park.",
+    "example_en": "The children are playing in the park."
+  },
+  {
+    "id": "park-Genitiv",
+    "category": {
+      "name": "Places",
+      "slug": "places"
+    },
+    "article": "der",
+    "word": "Park",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Parks",
+    "plural": "Parks",
+    "meaning": "park",
+    "example": "Die Bäume des Parks sind alt.",
+    "example_en": "The trees of the park are old."
+  },
+  {
+    "id": "pflanze-Nominativ",
+    "category": {
+      "name": "Nature & Environment",
+      "slug": "nature-environment"
+    },
+    "article": "die",
+    "word": "Pflanze",
+    "case_name": "Nominativ",
+    "articleByCase": "die",
+    "wordByCase": "Pflanze",
+    "plural": "Pflanzen",
+    "meaning": "plant",
+    "example": "Die Pflanze braucht jeden Tag Wasser.",
+    "example_en": "The plant needs water every day."
+  },
+  {
+    "id": "pflanze-Akkusativ",
+    "category": {
+      "name": "Nature & Environment",
+      "slug": "nature-environment"
+    },
+    "article": "die",
+    "word": "Pflanze",
+    "case_name": "Akkusativ",
+    "articleByCase": "die",
+    "wordByCase": "Pflanze",
+    "plural": "Pflanzen",
+    "meaning": "plant",
+    "example": "Ich gieße die Pflanze jeden Morgen.",
+    "example_en": "I water the plant every morning."
+  },
+  {
+    "id": "pflanze-Dativ",
+    "category": {
+      "name": "Nature & Environment",
+      "slug": "nature-environment"
+    },
+    "article": "die",
+    "word": "Pflanze",
+    "case_name": "Dativ",
+    "articleByCase": "der",
+    "wordByCase": "Pflanze",
+    "plural": "Pflanzen",
+    "meaning": "plant",
+    "example": "Ich gebe der Pflanze Wasser.",
+    "example_en": "I give water to the plant."
+  },
+  {
+    "id": "pflanze-Genitiv",
+    "category": {
+      "name": "Nature & Environment",
+      "slug": "nature-environment"
+    },
+    "article": "die",
+    "word": "Pflanze",
+    "case_name": "Genitiv",
+    "articleByCase": "der",
+    "wordByCase": "Pflanze",
+    "plural": "Pflanzen",
+    "meaning": "plant",
+    "example": "Die Blätter der Pflanze sind sehr grün.",
+    "example_en": "The leaves of the plant are very green."
+  },
+  {
+    "id": "pizza-Nominativ",
+    "category": {
+      "name": "Food & Drinks",
+      "slug": "food-drinks"
+    },
+    "article": "die",
+    "word": "Pizza",
+    "case_name": "Nominativ",
+    "articleByCase": "die",
+    "wordByCase": "Pizza",
+    "plural": "Pizzas",
+    "meaning": "pizza",
+    "example": "Die Pizza ist heiß und lecker.",
+    "example_en": "The pizza is hot and delicious."
+  },
+  {
+    "id": "pizza-Akkusativ",
+    "category": {
+      "name": "Food & Drinks",
+      "slug": "food-drinks"
+    },
+    "article": "die",
+    "word": "Pizza",
+    "case_name": "Akkusativ",
+    "articleByCase": "die",
+    "wordByCase": "Pizza",
+    "plural": "Pizzas",
+    "meaning": "pizza",
+    "example": "Ich bestelle die Pizza mit extra Käse.",
+    "example_en": "I order the pizza with extra cheese."
+  },
+  {
+    "id": "pizza-Dativ",
+    "category": {
+      "name": "Food & Drinks",
+      "slug": "food-drinks"
+    },
+    "article": "die",
+    "word": "Pizza",
+    "case_name": "Dativ",
+    "articleByCase": "der",
+    "wordByCase": "Pizza",
+    "plural": "Pizzas",
+    "meaning": "pizza",
+    "example": "Mit der Pizza kommt auch ein Getränk.",
+    "example_en": "A drink comes with the pizza."
+  },
+  {
+    "id": "pizza-Genitiv",
+    "category": {
+      "name": "Food & Drinks",
+      "slug": "food-drinks"
+    },
+    "article": "die",
+    "word": "Pizza",
+    "case_name": "Genitiv",
+    "articleByCase": "der",
+    "wordByCase": "Pizza",
+    "plural": "Pizzas",
+    "meaning": "pizza",
+    "example": "Der Rand der Pizza ist knusprig.",
+    "example_en": "The crust of the pizza is crispy."
+  },
+  {
+    "id": "plan-Nominativ",
+    "category": {
+      "name": "Others",
+      "slug": "others"
+    },
+    "article": "der",
+    "word": "Plan",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "Plan",
+    "plural": "Pläne",
+    "meaning": "plan / schedule",
+    "example": "Der Plan für morgen ist noch nicht fertig.",
+    "example_en": "The plan for tomorrow is not finished yet."
+  },
+  {
+    "id": "plan-Akkusativ",
+    "category": {
+      "name": "Others",
+      "slug": "others"
+    },
+    "article": "der",
+    "word": "Plan",
+    "case_name": "Akkusativ",
+    "articleByCase": "den",
+    "wordByCase": "Plan",
+    "plural": "Pläne",
+    "meaning": "plan / schedule",
+    "example": "Wir besprechen gerade den Plan für die Reise.",
+    "example_en": "We are currently discussing the plan for the trip."
+  },
+  {
+    "id": "plan-Dativ",
+    "category": {
+      "name": "Others",
+      "slug": "others"
+    },
+    "article": "der",
+    "word": "Plan",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Plan",
+    "plural": "Pläne",
+    "meaning": "plan / schedule",
+    "example": "Ich stimme dem Plan zu.",
+    "example_en": "I agree with the plan."
+  },
+  {
+    "id": "plan-Genitiv",
+    "category": {
+      "name": "Others",
+      "slug": "others"
+    },
+    "article": "der",
+    "word": "Plan",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Plans",
+    "plural": "Pläne",
+    "meaning": "plan / schedule",
+    "example": "Die Details des Plans wurden gestern besprochen.",
+    "example_en": "The details of the plan were discussed yesterday."
+  },
+  {
+    "id": "problem-Nominativ",
+    "category": {
+      "name": "Others",
+      "slug": "others"
+    },
+    "article": "das",
+    "word": "Problem",
+    "case_name": "Nominativ",
+    "articleByCase": "das",
+    "wordByCase": "Problem",
+    "plural": "Probleme",
+    "meaning": "problem",
+    "example": "Das Problem ist sehr kompliziert.",
+    "example_en": "The problem is very complicated."
+  },
+  {
+    "id": "problem-Akkusativ",
+    "category": {
+      "name": "Others",
+      "slug": "others"
+    },
+    "article": "das",
+    "word": "Problem",
+    "case_name": "Akkusativ",
+    "articleByCase": "das",
+    "wordByCase": "Problem",
+    "plural": "Probleme",
+    "meaning": "problem",
+    "example": "Ich habe das Problem verstanden.",
+    "example_en": "I understood the problem."
+  },
+  {
+    "id": "problem-Dativ",
+    "category": {
+      "name": "Others",
+      "slug": "others"
+    },
+    "article": "das",
+    "word": "Problem",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Problem",
+    "plural": "Probleme",
+    "meaning": "problem",
+    "example": "Wir nähern uns dem Problem Schritt für Schritt.",
+    "example_en": "We are approaching the problem step by step."
+  },
+  {
+    "id": "problem-Genitiv",
+    "category": {
+      "name": "Others",
+      "slug": "others"
+    },
+    "article": "das",
+    "word": "Problem",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Problems",
+    "plural": "Probleme",
+    "meaning": "problem",
+    "example": "Die Lösung des Problems war sehr einfach.",
+    "example_en": "The solution to the problem was very simple."
+  },
+  {
+    "id": "regenschirm-Nominativ",
+    "category": {
+      "name": "Objects",
+      "slug": "objects"
+    },
+    "article": "der",
+    "word": "Regenschirm",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "Regenschirm",
+    "plural": "Regenschirme",
+    "meaning": "umbrella",
+    "example": "Der Regenschirm liegt im Flur.",
+    "example_en": "The umbrella is in the hallway."
+  },
+  {
+    "id": "regenschirm-Akkusativ",
+    "category": {
+      "name": "Objects",
+      "slug": "objects"
+    },
+    "article": "der",
+    "word": "Regenschirm",
+    "case_name": "Akkusativ",
+    "articleByCase": "den",
+    "wordByCase": "Regenschirm",
+    "plural": "Regenschirme",
+    "meaning": "umbrella",
+    "example": "Ich nehme den Regenschirm mit.",
+    "example_en": "I'm taking the umbrella with me."
+  },
+  {
+    "id": "regenschirm-Dativ",
+    "category": {
+      "name": "Objects",
+      "slug": "objects"
+    },
+    "article": "der",
+    "word": "Regenschirm",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Regenschirm",
+    "plural": "Regenschirme",
+    "meaning": "umbrella",
+    "example": "Mit dem Regenschirm bleibe ich trocken.",
+    "example_en": "With the umbrella, I stay dry."
+  },
+  {
+    "id": "regenschirm-Genitiv",
+    "category": {
+      "name": "Objects",
+      "slug": "objects"
+    },
+    "article": "der",
+    "word": "Regenschirm",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Regenschirms",
+    "plural": "Regenschirme",
+    "meaning": "umbrella",
+    "example": "Die Farbe des Regenschirms ist blau.",
+    "example_en": "The color of the umbrella is blue."
+  },
+  {
+    "id": "sommer-Nominativ",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "der",
+    "word": "Sommer",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "Sommer",
+    "plural": "Sommer",
+    "meaning": "summer",
+    "example": "Der Sommer ist meine Lieblingsjahreszeit.",
+    "example_en": "Summer is my favorite season."
+  },
+  {
+    "id": "sommer-Akkusativ",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "der",
+    "word": "Sommer",
+    "case_name": "Akkusativ",
+    "articleByCase": "den",
+    "wordByCase": "Sommer",
+    "plural": "Sommer",
+    "meaning": "summer",
+    "example": "Ich genieße den Sommer am Strand.",
+    "example_en": "I enjoy the summer at the beach."
+  },
+  {
+    "id": "sommer-Dativ",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "der",
+    "word": "Sommer",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Sommer",
+    "plural": "Sommer",
+    "meaning": "summer",
+    "example": "Im Sommer trinken wir viel Wasser.",
+    "example_en": "In summer, we drink a lot of water."
+  },
+  {
+    "id": "sommer-Genitiv",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "der",
+    "word": "Sommer",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Sommers",
+    "plural": "Sommer",
+    "meaning": "summer",
+    "example": "Die Hitze des Sommers ist manchmal unerträglich.",
+    "example_en": "The heat of the summer is sometimes unbearable."
+  },
+  {
+    "id": "sonne-Nominativ",
+    "category": {
+      "name": "Nature & Environment",
+      "slug": "nature-environment"
+    },
+    "article": "die",
+    "word": "Sonne",
+    "case_name": "Nominativ",
+    "articleByCase": "die",
+    "wordByCase": "Sonne",
+    "plural": "Sonnen",
+    "meaning": "sun",
+    "example": "Die Sonne scheint heute sehr hell.",
+    "example_en": "The sun is shining very brightly today."
+  },
+  {
+    "id": "sonne-Akkusativ",
+    "category": {
+      "name": "Nature & Environment",
+      "slug": "nature-environment"
+    },
+    "article": "die",
+    "word": "Sonne",
+    "case_name": "Akkusativ",
+    "articleByCase": "die",
+    "wordByCase": "Sonne",
+    "plural": "Sonnen",
+    "meaning": "sun",
+    "example": "Ich sehe die Sonne am Horizont.",
+    "example_en": "I see the sun on the horizon."
+  },
+  {
+    "id": "sonne-Dativ",
+    "category": {
+      "name": "Nature & Environment",
+      "slug": "nature-environment"
+    },
+    "article": "die",
+    "word": "Sonne",
+    "case_name": "Dativ",
+    "articleByCase": "der",
+    "wordByCase": "Sonne",
+    "plural": "Sonnen",
+    "meaning": "sun",
+    "example": "Wir danken der Sonne für das schöne Wetter.",
+    "example_en": "We thank the sun for the nice weather."
+  },
+  {
+    "id": "sonne-Genitiv",
+    "category": {
+      "name": "Nature & Environment",
+      "slug": "nature-environment"
+    },
+    "article": "die",
+    "word": "Sonne",
+    "case_name": "Genitiv",
+    "articleByCase": "der",
+    "wordByCase": "Sonne",
+    "plural": "Sonnen",
+    "meaning": "sun",
+    "example": "Die Strahlen der Sonne wärmen unser Gesicht.",
+    "example_en": "The rays of the sun warm our face."
+  },
+  {
+    "id": "sonnencreme-Nominativ",
+    "category": {
+      "name": "Objects",
+      "slug": "objects"
+    },
+    "article": "die",
+    "word": "Sonnencreme",
+    "case_name": "Nominativ",
+    "articleByCase": "die",
+    "wordByCase": "Sonnencreme",
+    "plural": "Sonnencremes",
+    "meaning": "sunscreen",
+    "example": "Die Sonnencreme schützt vor Sonnenbrand.",
+    "example_en": "The sunscreen protects against sunburn."
+  },
+  {
+    "id": "sonnencreme-Akkusativ",
+    "category": {
+      "name": "Objects",
+      "slug": "objects"
+    },
+    "article": "die",
+    "word": "Sonnencreme",
+    "case_name": "Akkusativ",
+    "articleByCase": "die",
+    "wordByCase": "Sonnencreme",
+    "plural": "Sonnencremes",
+    "meaning": "sunscreen",
+    "example": "Ich benutze die Sonnencreme jeden Tag.",
+    "example_en": "I use the sunscreen every day."
+  },
+  {
+    "id": "sonnencreme-Dativ",
+    "category": {
+      "name": "Objects",
+      "slug": "objects"
+    },
+    "article": "die",
+    "word": "Sonnencreme",
+    "case_name": "Dativ",
+    "articleByCase": "der",
+    "wordByCase": "Sonnencreme",
+    "plural": "Sonnencremes",
+    "meaning": "sunscreen",
+    "example": "Mit der Sonnencreme bist du gut geschützt.",
+    "example_en": "With the sunscreen, you are well protected."
+  },
+  {
+    "id": "sonnencreme-Genitiv",
+    "category": {
+      "name": "Objects",
+      "slug": "objects"
+    },
+    "article": "die",
+    "word": "Sonnencreme",
+    "case_name": "Genitiv",
+    "articleByCase": "der",
+    "wordByCase": "Sonnencreme",
+    "plural": "Sonnencremes",
+    "meaning": "sunscreen",
+    "example": "Die Wirkung der Sonnencreme hält lange an.",
+    "example_en": "The effect of the sunscreen lasts a long time."
+  },
+  {
+    "id": "sprache-Nominativ",
+    "category": {
+      "name": "Others",
+      "slug": "others"
+    },
+    "article": "die",
+    "word": "Sprache",
+    "case_name": "Nominativ",
+    "articleByCase": "die",
+    "wordByCase": "Sprache",
+    "plural": "Sprachen",
+    "meaning": "language",
+    "example": "Die Sprache ist schwer zu lernen.",
+    "example_en": "The language is difficult to learn."
+  },
+  {
+    "id": "sprache-Akkusativ",
+    "category": {
+      "name": "Others",
+      "slug": "others"
+    },
+    "article": "die",
+    "word": "Sprache",
+    "case_name": "Akkusativ",
+    "articleByCase": "die",
+    "wordByCase": "Sprache",
+    "plural": "Sprachen",
+    "meaning": "language",
+    "example": "Ich lerne die Sprache seit einem Jahr.",
+    "example_en": "I have been learning the language for a year."
+  },
+  {
+    "id": "sprache-Dativ",
+    "category": {
+      "name": "Others",
+      "slug": "others"
+    },
+    "article": "die",
+    "word": "Sprache",
+    "case_name": "Dativ",
+    "articleByCase": "der",
+    "wordByCase": "Sprache",
+    "plural": "Sprachen",
+    "meaning": "language",
+    "example": "Mit der Sprache kann man sich verständigen.",
+    "example_en": "You can communicate with the language."
+  },
+  {
+    "id": "sprache-Genitiv",
+    "category": {
+      "name": "Others",
+      "slug": "others"
+    },
+    "article": "die",
+    "word": "Sprache",
+    "case_name": "Genitiv",
+    "articleByCase": "der",
+    "wordByCase": "Sprache",
+    "plural": "Sprachen",
+    "meaning": "language",
+    "example": "Die Regeln der Sprache sind komplex.",
+    "example_en": "The rules of the language are complex."
+  },
+  {
+    "id": "tag-Nominativ",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "der",
+    "word": "Tag",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "Tag",
+    "plural": "Tage",
+    "meaning": "day",
+    "example": "Der Tag beginnt mit einem Kaffee.",
+    "example_en": "The day begins with a coffee."
+  },
+  {
+    "id": "tag-Akkusativ",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "der",
+    "word": "Tag",
+    "case_name": "Akkusativ",
+    "articleByCase": "den",
+    "wordByCase": "Tag",
+    "plural": "Tage",
+    "meaning": "day",
+    "example": "Ich genieße den Tag am Strand.",
+    "example_en": "I enjoy the day at the beach."
+  },
+  {
+    "id": "tag-Dativ",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "der",
+    "word": "Tag",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Tag",
+    "plural": "Tage",
+    "meaning": "day",
+    "example": "Am Tag arbeite ich viel.",
+    "example_en": "During the day I work a lot."
+  },
+  {
+    "id": "tag-Genitiv",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "der",
+    "word": "Tag",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Tages",
+    "plural": "Tage",
+    "meaning": "day",
+    "example": "Der Beginn des Tages ist entscheidend.",
+    "example_en": "The start of the day is crucial."
+  },
+  {
+    "id": "taxi-Nominativ",
+    "category": {
+      "name": "Transportation",
+      "slug": "transportation"
+    },
+    "article": "das",
+    "word": "Taxi",
+    "case_name": "Nominativ",
+    "articleByCase": "das",
+    "wordByCase": "Taxi",
+    "plural": "Taxis",
+    "meaning": "taxi",
+    "example": "Das Taxi steht vor dem Hotel.",
+    "example_en": "The taxi is in front of the hotel."
+  },
+  {
+    "id": "taxi-Akkusativ",
+    "category": {
+      "name": "Transportation",
+      "slug": "transportation"
+    },
+    "article": "das",
+    "word": "Taxi",
+    "case_name": "Akkusativ",
+    "articleByCase": "das",
+    "wordByCase": "Taxi",
+    "plural": "Taxis",
+    "meaning": "taxi",
+    "example": "Ich nehme das Taxi zum Bahnhof.",
+    "example_en": "I take the taxi to the train station."
+  },
+  {
+    "id": "taxi-Dativ",
+    "category": {
+      "name": "Transportation",
+      "slug": "transportation"
+    },
+    "article": "das",
+    "word": "Taxi",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Taxi",
+    "plural": "Taxis",
+    "meaning": "taxi",
+    "example": "Mit dem Taxi dauert es nur zehn Minuten.",
+    "example_en": "It takes only ten minutes with the taxi."
+  },
+  {
+    "id": "taxi-Genitiv",
+    "category": {
+      "name": "Transportation",
+      "slug": "transportation"
+    },
+    "article": "das",
+    "word": "Taxi",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Taxis",
+    "plural": "Taxis",
+    "meaning": "taxi",
+    "example": "Der Fahrer des Taxis war sehr freundlich.",
+    "example_en": "The driver of the taxi was very friendly."
+  },
+  {
+    "id": "termin-Nominativ",
+    "category": {
+      "name": "Others",
+      "slug": "others"
+    },
+    "article": "der",
+    "word": "Termin",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "Termin",
+    "plural": "Termine",
+    "meaning": "appointment / meeting",
+    "example": "Der Termin ist am Montag um 10 Uhr.",
+    "example_en": "The appointment is on Monday at 10 o’clock."
+  },
+  {
+    "id": "termin-Akkusativ",
+    "category": {
+      "name": "Others",
+      "slug": "others"
+    },
+    "article": "der",
+    "word": "Termin",
+    "case_name": "Akkusativ",
+    "articleByCase": "den",
+    "wordByCase": "Termin",
+    "plural": "Termine",
+    "meaning": "appointment / meeting",
+    "example": "Ich habe den Termin vergessen.",
+    "example_en": "I forgot the appointment."
+  },
+  {
+    "id": "termin-Dativ",
+    "category": {
+      "name": "Others",
+      "slug": "others"
+    },
+    "article": "der",
+    "word": "Termin",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Termin",
+    "plural": "Termine",
+    "meaning": "appointment / meeting",
+    "example": "Ich habe beim Termin viele Informationen bekommen.",
+    "example_en": "I received a lot of information at the appointment."
+  },
+  {
+    "id": "termin-Genitiv",
+    "category": {
+      "name": "Others",
+      "slug": "others"
+    },
+    "article": "der",
+    "word": "Termin",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Termins",
+    "plural": "Termine",
+    "meaning": "appointment / meeting",
+    "example": "Die Uhrzeit des Termins wurde geändert.",
+    "example_en": "The time of the appointment has been changed."
+  },
+  {
+    "id": "tisch-Nominativ",
+    "category": {
+      "name": "Objects",
+      "slug": "objects"
+    },
+    "article": "der",
+    "word": "Tisch",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "Tisch",
+    "plural": "Tische",
+    "meaning": "table",
+    "example": "Der Tisch ist rund.",
+    "example_en": "The table is round."
+  },
+  {
+    "id": "tisch-Akkusativ",
+    "category": {
+      "name": "Objects",
+      "slug": "objects"
+    },
+    "article": "der",
+    "word": "Tisch",
+    "case_name": "Akkusativ",
+    "articleByCase": "den",
+    "wordByCase": "Tisch",
+    "plural": "Tische",
+    "meaning": "table",
+    "example": "Ich sehe den Tisch.",
+    "example_en": "I see the table."
+  },
+  {
+    "id": "tisch-Dativ",
+    "category": {
+      "name": "Objects",
+      "slug": "objects"
+    },
+    "article": "der",
+    "word": "Tisch",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Tisch",
+    "plural": "Tische",
+    "meaning": "table",
+    "example": "Ich lege das Buch auf dem Tisch.",
+    "example_en": "I put the book on the table."
+  },
+  {
+    "id": "tisch-Genitiv",
+    "category": {
+      "name": "Objects",
+      "slug": "objects"
+    },
+    "article": "der",
+    "word": "Tisch",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Tisches",
+    "plural": "Tische",
+    "meaning": "table",
+    "example": "Die Farbe des Tisches ist schön.",
+    "example_en": "The color of the table is nice."
+  },
+  {
+    "id": "vater-Nominativ",
+    "category": {
+      "name": "People & Family",
+      "slug": "people-family"
+    },
+    "article": "der",
+    "word": "Vater",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "Vater",
+    "plural": "die Väter",
+    "meaning": "father",
+    "example": "Der Vater liest die Zeitung.",
+    "example_en": "The father reads the newspaper."
+  },
+  {
+    "id": "vater-Akkusativ",
+    "category": {
+      "name": "People & Family",
+      "slug": "people-family"
+    },
+    "article": "der",
+    "word": "Vater",
+    "case_name": "Akkusativ",
+    "articleByCase": "den",
+    "wordByCase": "Vater",
+    "plural": "die Väter",
+    "meaning": "father",
+    "example": "Ich sehe den Vater im Garten.",
+    "example_en": "I see the father in the garden."
+  },
+  {
+    "id": "vater-Dativ",
+    "category": {
+      "name": "People & Family",
+      "slug": "people-family"
+    },
+    "article": "der",
+    "word": "Vater",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Vater",
+    "plural": "die Väter",
+    "meaning": "father",
+    "example": "Ich helfe dem Vater beim Kochen.",
+    "example_en": "I help the father with cooking."
+  },
+  {
+    "id": "vater-Genitiv",
+    "category": {
+      "name": "People & Family",
+      "slug": "people-family"
+    },
+    "article": "der",
+    "word": "Vater",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Vaters",
+    "plural": "die Väter",
+    "meaning": "father",
+    "example": "Das Auto des Vaters ist neu.",
+    "example_en": "The father's car is new."
+  },
+  {
+    "id": "verspätung-Nominativ",
+    "category": {
+      "name": "Others",
+      "slug": "others"
+    },
+    "article": "die",
+    "word": "Verspätung",
+    "case_name": "Nominativ",
+    "articleByCase": "die",
+    "wordByCase": "Verspätung",
+    "plural": "Verspätungen",
+    "meaning": "delay",
+    "example": "Die Verspätung des Zuges war ärgerlich.",
+    "example_en": "The delay of the train was annoying."
+  },
+  {
+    "id": "verspätung-Akkusativ",
+    "category": {
+      "name": "Others",
+      "slug": "others"
+    },
+    "article": "die",
+    "word": "Verspätung",
+    "case_name": "Akkusativ",
+    "articleByCase": "die",
+    "wordByCase": "Verspätung",
+    "plural": "Verspätungen",
+    "meaning": "delay",
+    "example": "Ich habe die Verspätung nicht bemerkt.",
+    "example_en": "I didn't notice the delay."
+  },
+  {
+    "id": "verspätung-Dativ",
+    "category": {
+      "name": "Others",
+      "slug": "others"
+    },
+    "article": "die",
+    "word": "Verspätung",
+    "case_name": "Dativ",
+    "articleByCase": "der",
+    "wordByCase": "Verspätung",
+    "plural": "Verspätungen",
+    "meaning": "delay",
+    "example": "Mit der Verspätung habe ich gerechnet.",
+    "example_en": "I expected the delay."
+  },
+  {
+    "id": "verspätung-Genitiv",
+    "category": {
+      "name": "Others",
+      "slug": "others"
+    },
+    "article": "die",
+    "word": "Verspätung",
+    "case_name": "Genitiv",
+    "articleByCase": "der",
+    "wordByCase": "Verspätung",
+    "plural": "Verspätungen",
+    "meaning": "delay",
+    "example": "Trotz der Verspätung kam sie pünktlich zur Arbeit.",
+    "example_en": "Despite the delay, she arrived at work on time."
+  },
+  {
+    "id": "wald-Nominativ",
+    "category": {
+      "name": "Nature & Environment",
+      "slug": "nature-environment"
+    },
+    "article": "der",
+    "word": "Wald",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "Wald",
+    "plural": "Wälder",
+    "meaning": "forest",
+    "example": "Der Wald ist im Herbst besonders schön.",
+    "example_en": "The forest is especially beautiful in autumn."
+  },
+  {
+    "id": "wald-Akkusativ",
+    "category": {
+      "name": "Nature & Environment",
+      "slug": "nature-environment"
+    },
+    "article": "der",
+    "word": "Wald",
+    "case_name": "Akkusativ",
+    "articleByCase": "den",
+    "wordByCase": "Wald",
+    "plural": "Wälder",
+    "meaning": "forest",
+    "example": "Wir gehen jeden Sonntag in den Wald.",
+    "example_en": "We go to the forest every Sunday."
+  },
+  {
+    "id": "wald-Dativ",
+    "category": {
+      "name": "Nature & Environment",
+      "slug": "nature-environment"
+    },
+    "article": "der",
+    "word": "Wald",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Wald",
+    "plural": "Wälder",
+    "meaning": "forest",
+    "example": "Im Wald hört man viele Vögel singen.",
+    "example_en": "You can hear many birds singing in the forest."
+  },
+  {
+    "id": "wald-Genitiv",
+    "category": {
+      "name": "Nature & Environment",
+      "slug": "nature-environment"
+    },
+    "article": "der",
+    "word": "Wald",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Waldes",
+    "plural": "Wälder",
+    "meaning": "forest",
+    "example": "Die Bäume des Waldes sind sehr alt.",
+    "example_en": "The trees of the forest are very old."
+  },
+  {
+    "id": "wasser-Nominativ",
+    "category": {
+      "name": "Food & Drinks",
+      "slug": "food-drinks"
+    },
+    "article": "das",
+    "word": "Wasser",
+    "case_name": "Nominativ",
+    "articleByCase": "das",
+    "wordByCase": "Wasser",
+    "plural": "die Wässer",
+    "meaning": "water",
+    "example": "Das Wasser ist kalt.",
+    "example_en": "The water is cold."
+  },
+  {
+    "id": "wasser-Akkusativ",
+    "category": {
+      "name": "Food & Drinks",
+      "slug": "food-drinks"
+    },
+    "article": "das",
+    "word": "Wasser",
+    "case_name": "Akkusativ",
+    "articleByCase": "das",
+    "wordByCase": "Wasser",
+    "plural": "die Wässer",
+    "meaning": "water",
+    "example": "Ich trinke das Wasser schnell.",
+    "example_en": "I drink the water quickly."
+  },
+  {
+    "id": "wasser-Dativ",
+    "category": {
+      "name": "Food & Drinks",
+      "slug": "food-drinks"
+    },
+    "article": "das",
+    "word": "Wasser",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Wasser",
+    "plural": "die Wässer",
+    "meaning": "water",
+    "example": "Mit dem Wasser lösche ich den Durst.",
+    "example_en": "With the water, I quench my thirst."
+  },
+  {
+    "id": "wasser-Genitiv",
+    "category": {
+      "name": "Food & Drinks",
+      "slug": "food-drinks"
+    },
+    "article": "das",
+    "word": "Wasser",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Wassers",
+    "plural": "die Wässer",
+    "meaning": "water",
+    "example": "Die Temperatur des Wassers ist angenehm.",
+    "example_en": "The temperature of the water is pleasant."
+  },
+  {
+    "id": "winter-Nominativ",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "der",
+    "word": "Winter",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "Winter",
+    "plural": "",
+    "meaning": "winter",
+    "example": "Der Winter ist sehr kalt in Deutschland.",
+    "example_en": "Winter is very cold in Germany."
+  },
+  {
+    "id": "winter-Akkusativ",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "der",
+    "word": "Winter",
+    "case_name": "Akkusativ",
+    "articleByCase": "den",
+    "wordByCase": "Winter",
+    "plural": "",
+    "meaning": "winter",
+    "example": "Ich mag den Winter wegen des Schnees.",
+    "example_en": "I like winter because of the snow."
+  },
+  {
+    "id": "winter-Dativ",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "der",
+    "word": "Winter",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Winter",
+    "plural": "",
+    "meaning": "winter",
+    "example": "Im Winter trage ich einen Mantel.",
+    "example_en": "In winter, I wear a coat."
+  },
+  {
+    "id": "winter-Genitiv",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "der",
+    "word": "Winter",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Winters",
+    "plural": "",
+    "meaning": "winter",
+    "example": "Die Dunkelheit des Winters macht viele müde.",
+    "example_en": "The darkness of winter makes many people tired."
+  },
+  {
+    "id": "woche-Nominativ",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "die",
+    "word": "Woche",
+    "case_name": "Nominativ",
+    "articleByCase": "die",
+    "wordByCase": "Woche",
+    "plural": "Wochen",
+    "meaning": "week",
+    "example": "Die Woche beginnt am Montag.",
+    "example_en": "The week starts on Monday."
+  },
+  {
+    "id": "woche-Akkusativ",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "die",
+    "word": "Woche",
+    "case_name": "Akkusativ",
+    "articleByCase": "die",
+    "wordByCase": "Woche",
+    "plural": "Wochen",
+    "meaning": "week",
+    "example": "Ich plane die Woche im Voraus.",
+    "example_en": "I plan the week in advance."
+  },
+  {
+    "id": "woche-Dativ",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "die",
+    "word": "Woche",
+    "case_name": "Dativ",
+    "articleByCase": "der",
+    "wordByCase": "Woche",
+    "plural": "Wochen",
+    "meaning": "week",
+    "example": "Ich habe in der Woche viel gearbeitet.",
+    "example_en": "I worked a lot during the week."
+  },
+  {
+    "id": "woche-Genitiv",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "die",
+    "word": "Woche",
+    "case_name": "Genitiv",
+    "articleByCase": "der",
+    "wordByCase": "Woche",
+    "plural": "Wochen",
+    "meaning": "week",
+    "example": "Der Anfang der Woche war stressig.",
+    "example_en": "The beginning of the week was stressful."
+  },
+  {
+    "id": "wochenende-Nominativ",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "das",
+    "word": "Wochenende",
+    "case_name": "Nominativ",
+    "articleByCase": "das",
+    "wordByCase": "Wochenende",
+    "plural": "Wochenenden",
+    "meaning": "weekend",
+    "example": "Das Wochenende ist entspannend.",
+    "example_en": "The weekend is relaxing."
+  },
+  {
+    "id": "wochenende-Akkusativ",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "das",
+    "word": "Wochenende",
+    "case_name": "Akkusativ",
+    "articleByCase": "das",
+    "wordByCase": "Wochenende",
+    "plural": "Wochenenden",
+    "meaning": "weekend",
+    "example": "Ich plane das Wochenende im Voraus.",
+    "example_en": "I plan the weekend in advance."
+  },
+  {
+    "id": "wochenende-Dativ",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "das",
+    "word": "Wochenende",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Wochenende",
+    "plural": "Wochenenden",
+    "meaning": "weekend",
+    "example": "Am Wochenende fahre ich ans Meer.",
+    "example_en": "On the weekend I go to the sea."
+  },
+  {
+    "id": "wochenende-Genitiv",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "das",
+    "word": "Wochenende",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Wochenendes",
+    "plural": "Wochenenden",
+    "meaning": "weekend",
+    "example": "Die Ruhe des Wochenendes ist schön.",
+    "example_en": "The calm of the weekend is nice."
+  },
+  {
+    "id": "zeit-Nominativ",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "die",
+    "word": "Zeit",
+    "case_name": "Nominativ",
+    "articleByCase": "die",
+    "wordByCase": "Zeit",
+    "plural": "Zeiten",
+    "meaning": "time",
+    "example": "Die Zeit vergeht schnell.",
+    "example_en": "Time passes quickly."
+  },
+  {
+    "id": "zeit-Akkusativ",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "die",
+    "word": "Zeit",
+    "case_name": "Akkusativ",
+    "articleByCase": "die",
+    "wordByCase": "Zeit",
+    "plural": "Zeiten",
+    "meaning": "time",
+    "example": "Ich habe die Zeit genossen.",
+    "example_en": "I enjoyed the time."
+  },
+  {
+    "id": "zeit-Dativ",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "die",
+    "word": "Zeit",
+    "case_name": "Dativ",
+    "articleByCase": "der",
+    "wordByCase": "Zeit",
+    "plural": "Zeiten",
+    "meaning": "time",
+    "example": "Er widmet sich ganz der Zeit mit seiner Familie.",
+    "example_en": "He dedicates himself fully to the time with his family."
+  },
+  {
+    "id": "zeit-Genitiv",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "die",
+    "word": "Zeit",
+    "case_name": "Genitiv",
+    "articleByCase": "der",
+    "wordByCase": "Zeit",
+    "plural": "Zeiten",
+    "meaning": "time",
+    "example": "Die Erinnerung der Zeit bleibt ewig.",
+    "example_en": "The memory of the time lasts forever."
+  },
+  {
+    "id": "zug-Nominativ",
+    "category": {
+      "name": "Transportation",
+      "slug": "transportation"
+    },
+    "article": "der",
+    "word": "Zug",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "Zug",
+    "plural": "Züge",
+    "meaning": "train",
+    "example": "Der Zug kommt um acht Uhr an.",
+    "example_en": "The train arrives at eight o'clock."
+  },
+  {
+    "id": "zug-Akkusativ",
+    "category": {
+      "name": "Transportation",
+      "slug": "transportation"
+    },
+    "article": "der",
+    "word": "Zug",
+    "case_name": "Akkusativ",
+    "articleByCase": "den",
+    "wordByCase": "Zug",
+    "plural": "Züge",
+    "meaning": "train",
+    "example": "Ich nehme den Zug nach Berlin.",
+    "example_en": "I take the train to Berlin."
+  },
+  {
+    "id": "zug-Dativ",
+    "category": {
+      "name": "Transportation",
+      "slug": "transportation"
+    },
+    "article": "der",
+    "word": "Zug",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Zug",
+    "plural": "Züge",
+    "meaning": "train",
+    "example": "Mit dem Zug reist man bequem.",
+    "example_en": "You travel comfortably by train."
+  },
+  {
+    "id": "zug-Genitiv",
+    "category": {
+      "name": "Transportation",
+      "slug": "transportation"
+    },
+    "article": "der",
+    "word": "Zug",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Zuges",
+    "plural": "Züge",
+    "meaning": "train",
+    "example": "Die Türen des Zuges sind geschlossen.",
+    "example_en": "The doors of the train are closed."
+  },
+  {
+    "id": "ärger-Nominativ",
+    "category": {
+      "name": "Emotions",
+      "slug": "emotions"
+    },
+    "article": "der",
+    "word": "Ärger",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "Ärger",
+    "plural": "",
+    "meaning": "trouble / anger",
+    "example": "Der Ärger war groß nach dem Streit.",
+    "example_en": "The anger was great after the argument."
+  },
+  {
+    "id": "ärger-Akkusativ",
+    "category": {
+      "name": "Emotions",
+      "slug": "emotions"
+    },
+    "article": "der",
+    "word": "Ärger",
+    "case_name": "Akkusativ",
+    "articleByCase": "den",
+    "wordByCase": "Ärger",
+    "plural": "",
+    "meaning": "trouble / anger",
+    "example": "Ich möchte den Ärger vermeiden.",
+    "example_en": "I want to avoid the trouble."
+  },
+  {
+    "id": "ärger-Dativ",
+    "category": {
+      "name": "Emotions",
+      "slug": "emotions"
+    },
+    "article": "der",
+    "word": "Ärger",
+    "case_name": "Dativ",
+    "articleByCase": "dem",
+    "wordByCase": "Ärger",
+    "plural": "",
+    "meaning": "trouble / anger",
+    "example": "Sie geht dem Ärger aus dem Weg.",
+    "example_en": "She avoids the trouble."
+  },
+  {
+    "id": "ärger-Genitiv",
+    "category": {
+      "name": "Emotions",
+      "slug": "emotions"
+    },
+    "article": "der",
+    "word": "Ärger",
+    "case_name": "Genitiv",
+    "articleByCase": "des",
+    "wordByCase": "Ärgers",
+    "plural": "",
+    "meaning": "trouble / anger",
+    "example": "Die Ursache des Ärgers ist unklar.",
+    "example_en": "The cause of the trouble is unclear."
+  },
+  {
+    "id": "ärztin-Nominativ",
+    "category": {
+      "name": "Professions",
+      "slug": "professions"
+    },
+    "article": "die",
+    "word": "Ärztin",
+    "case_name": "Nominativ",
+    "articleByCase": "die",
+    "wordByCase": "Ärztin",
+    "plural": "Ärztinnen",
+    "meaning": "doctor (female)",
+    "example": "Die Ärztin hilft den Patienten.",
+    "example_en": "The doctor helps the patients."
+  },
+  {
+    "id": "ärztin-Akkusativ",
+    "category": {
+      "name": "Professions",
+      "slug": "professions"
+    },
+    "article": "die",
+    "word": "Ärztin",
+    "case_name": "Akkusativ",
+    "articleByCase": "die",
+    "wordByCase": "Ärztin",
+    "plural": "Ärztinnen",
+    "meaning": "doctor (female)",
+    "example": "Ich sehe die Ärztin im Krankenhaus.",
+    "example_en": "I see the doctor in the hospital."
+  },
+  {
+    "id": "ärztin-Dativ",
+    "category": {
+      "name": "Professions",
+      "slug": "professions"
+    },
+    "article": "die",
+    "word": "Ärztin",
+    "case_name": "Dativ",
+    "articleByCase": "der",
+    "wordByCase": "Ärztin",
+    "plural": "Ärztinnen",
+    "meaning": "doctor (female)",
+    "example": "Ich gebe der Ärztin die Unterlagen.",
+    "example_en": "I give the documents to the doctor."
+  },
+  {
+    "id": "ärztin-Genitiv",
+    "category": {
+      "name": "Professions",
+      "slug": "professions"
+    },
+    "article": "die",
+    "word": "Ärztin",
+    "case_name": "Genitiv",
+    "articleByCase": "der",
+    "wordByCase": "Ärztin",
+    "plural": "Ärztinnen",
+    "meaning": "doctor (female)",
+    "example": "Die Entscheidung der Ärztin war richtig.",
+    "example_en": "The decision of the doctor was correct."
+  }
+]

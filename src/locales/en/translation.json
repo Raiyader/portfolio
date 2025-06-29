@@ -1,0 +1,50 @@
+{
+    "header": {
+    "projects": "Projects",
+    "contact": "Contact",
+    "changeLanguage": "Dili Değiştir"
+  },
+    "hero": {
+    "introText": "Hi I'm",
+    "rotatingWords": [
+      "a Software Developer.",
+      "a Frontend Developer.",
+      "a React Developer."
+    ],
+    "description": "I build interactive, efficient software — with clarity and performance in mind."
+  },
+      "projectsSection": {
+    "title": "Building efficient & scalable apps",
+    "description": "I develop full-featured applications using modern technologies. Explore demos and source code to see my approach.",
+    "exploreButton": "Explore Projects & Demos"
+  },
+    "contactSection": {
+    "title": "Let's Connect",
+    "description": "Feel free to get in touch via email or connect with me on LinkedIn.",
+    "copy": "Click to copy",
+    "copied": "Copied!"
+  },
+  "projectsTitle": "Projects",
+  "projectsIntro": "Each of these projects reflects a step in my journey as a developer. I created them with the intention of turning theory into practice and building functional applications. Some of them may appear simple at first glance, but they provided valuable experiences where I explored different technologies or combined them in practical and effective ways. Now, I'm not just developing projects to learn. I am ready to create original, meaningful software and contribute to real-world applications.",
+
+  "projects": {
+    "1": {
+      "description": "Abyssal Shopping is a full-featured e-commerce web application and also the first project I built from scratch that replicates essential features of modern online stores. Users can register and log in, browse products, add them to the cart, purchase items, and even list their own products for sale. Developed with React, Node.js, Express, and MongoDB, the application delivers a complete full-stack structure that reflects the core functionalities of a real-world e-commerce system. It includes features such as JWT-based authentication, route protection, and global state management with Redux. No styling libraries were used — all CSS was written manually to shape the user interface."
+    },
+    "2": {
+      "description": "Adventure Log is a travel-themed blog application built with Next.js and MongoDB. It allows users to share their travel experiences by creating and publishing posts with images. The project focuses on a clean and minimal interface to highlight the content, while providing user authentication and secure post management features. This project helped me practice modern full-stack development using the Next.js ecosystem. All styles were handcrafted using plain CSS for a fully customized look."
+    },
+    "3": {
+      "description": "Abyssal Events is an event-focused blog platform developed with ASP.NET MVC, Web API, and Microsoft SQL Server. It allows users to explore event-related posts across categories such as concerts, sports, and performing arts. Users can also add events to their favorites for quick access later. This project was my first experience building a full application using C# and the .NET ecosystem, where I practiced working with Entity Framework and structured backend logic. Bootstrap was used for styling, integrated within the ASP.NET MVC framework."
+    },
+    "4": {
+      "description": "Fire Kitchen is a recipe-focused blog application where users can browse and read various cooking recipes. The project combines React on the frontend and ASP.NET Web API on the backend, using SQL Server as the database. It was an opportunity for me to integrate React with a .NET backend in a real-world scenario. The application uses React Query for data fetching, JWT for authentication, and a combination of custom CSS and Bootstrap for styling. Entity Framework was used for database operations."
+    },
+    "5": {
+      "description": "Artikel Boost is an interactive web application designed to help users learn and practice German noun articles and their changes across grammatical cases. Built with React and Flask, it features a color-coded interface to make learning easier and more intuitive. The app highlights the article transformations (der/die/das) in different cases such as Nominativ, Akkusativ, Dativ, and Genitiv. I created this project to assist myself while learning German and to make grammar practice more engaging. Therefore, instead of using a full database system, the data was stored in a static JSON file on the backend, as it was intended to be a lightweight personal study tool. The UI was styled using Tailwind CSS for better structure and maintainability."
+    },
+    "6": {
+      "description": "Portfolio is my personal website built with React, TypeScript, and Tailwind CSS. Its purpose is not only to showcase the projects I've developed, but also to serve as a transition point from JavaScript to TypeScript in my frontend development journey. All previously created projects are being refactored into TypeScript and integrated into this site. Along the way, CSS styles from older projects are also being rewritten using Tailwind CSS. The project structure is organized with React Router, allowing seamless navigation between pages and demo views."
+    }
+  }
+}

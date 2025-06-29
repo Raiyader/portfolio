@@ -1,0 +1,232 @@
+[
+  {
+    "id": "bruschetta",
+    "title": "Bruschetta",
+    "category": { "name": "Appetizers", "slug": "appetizers" },
+    "imageUrl": "bruschetta",
+    "ingredients": "Bread, Tomatoes, Garlic, Basil, Olive Oil, Salt, Pepper",
+    "instructions": "Toast bread slices, rub with garlic, top with chopped tomatoes, basil, olive oil, salt, and pepper.",
+    "author": "Chef Mario",
+    "authorId": "user1"
+  },
+  {
+    "id": "sigara-boregi",
+    "title": "Sigara Böreği",
+    "category": { "name": "Appetizers", "slug": "appetizers" },
+    "imageUrl": "sigara-boregi",
+    "ingredients": "Phyllo Dough, Feta Cheese, Parsley, Oil",
+    "instructions": "Roll cheese mixture in phyllo, fry until golden.",
+    "author": "Chef Ayşe",
+    "authorId": "user3"
+  },
+  {
+    "id": "tomato-soup",
+    "title": "Tomato Soup",
+    "category": { "name": "Soups", "slug": "soups" },
+    "imageUrl": "tomato-soup",
+    "ingredients": "Tomatoes, Onion, Garlic, Basil, Cream",
+    "instructions": "Cook tomatoes and onions, blend with cream and basil.",
+    "author": "Chef Anna",
+    "authorId": "user4"
+  },
+  {
+    "id": "mercimek-corbasi",
+    "title": "Mercimek Çorbası",
+    "category": { "name": "Soups", "slug": "soups" },
+    "imageUrl": "mercimek-corbasi",
+    "ingredients": "Lentils, Onion, Carrot, Butter, Mint",
+    "instructions": "Boil lentils with vegetables, blend, and season.",
+    "author": "Chef Zeynep",
+    "authorId": "user5"
+  },
+  {
+    "id": "miso-soup",
+    "title": "Miso Soup",
+    "category": { "name": "Soups", "slug": "soups" },
+    "imageUrl": "miso-soup",
+    "ingredients": "Miso Paste, Tofu, Seaweed, Green Onion",
+    "instructions": "Dissolve miso in hot water, add tofu and seaweed.",
+    "author": "Chef Hiro",
+    "authorId": "user6"
+  },
+  {
+    "id": "greek-salad",
+    "title": "Greek Salad",
+    "category": { "name": "Salads", "slug": "salads" },
+    "imageUrl": "greek-salad",
+    "ingredients": "Tomatoes, Cucumber, Feta Cheese, Olives, Olive Oil",
+    "instructions": "Mix ingredients and drizzle with olive oil.",
+    "author": "Chef Elena",
+    "authorId": "user7"
+  },
+  {
+    "id": "coban-salata",
+    "title": "Çoban Salata",
+    "category": { "name": "Salads", "slug": "salads" },
+    "imageUrl": "coban-salata",
+    "ingredients": "Tomatoes, Cucumber, Onion, Parsley, Olive Oil, Lemon",
+    "instructions": "Dice all vegetables and mix with olive oil and lemon.",
+    "author": "Chef Mehmet",
+    "authorId": "user8"
+  },
+  {
+    "id": "caesar-salad",
+    "title": "Caesar Salad",
+    "category": { "name": "Salads", "slug": "salads" },
+    "imageUrl": "caesar-salad",
+    "ingredients": "Lettuce, Croutons, Parmesan, Caesar Dressing",
+    "instructions": "Toss lettuce with dressing, top with croutons and cheese.",
+    "author": "Chef Rachel",
+    "authorId": "user9"
+  },
+  {
+    "id": "adana-kebab",
+    "title": "Adana Kebab",
+    "category": { "name": "Main Dishes", "slug": "main-dishes" },
+    "imageUrl": "adana-kebab",
+    "ingredients": "Ground Lamb, Red Pepper, Spices, Skewers",
+    "instructions": "Mix ingredients, shape onto skewers, grill over open fire.",
+    "author": "Chef Mehmet",
+    "authorId": "user10"
+  },
+  {
+    "id": "spaghetti-carbonara",
+    "title": "Spaghetti Carbonara",
+    "category": { "name": "Main Dishes", "slug": "main-dishes" },
+    "imageUrl": "spaghetti-carbonara",
+    "ingredients": "Spaghetti, Eggs, Parmesan, Pancetta, Black Pepper",
+    "instructions": "Cook pasta, toss with eggs, cheese, and pancetta off heat.",
+    "author": "Chef Marco",
+    "authorId": "user11"
+  },
+  {
+    "id": "sushi-roll",
+    "title": "Sushi Roll",
+    "category": { "name": "Main Dishes", "slug": "main-dishes" },
+    "imageUrl": "sushi-roll",
+    "ingredients": "Rice, Nori, Fish, Avocado, Cucumber",
+    "instructions": "Spread rice on nori, add fillings, roll and slice.",
+    "author": "Chef Sato",
+    "authorId": "user12"
+  },
+  {
+    "id": "tzatziki",
+    "title": "Tzatziki",
+    "category": { "name": "Sauces & Dips", "slug": "sauces-dips" },
+    "imageUrl": "tzatziki",
+    "ingredients": "Yogurt, Cucumber, Garlic, Olive Oil, Dill",
+    "instructions": "Mix all ingredients and chill before serving.",
+    "author": "Chef Nikos",
+    "authorId": "user13"
+  },
+  {
+    "id": "hummus",
+    "title": "Hummus",
+    "category": { "name": "Sauces & Dips", "slug": "sauces-dips" },
+    "imageUrl": "hummus",
+    "ingredients": "Chickpeas, Tahini, Lemon, Garlic, Olive Oil",
+    "instructions": "Blend ingredients until smooth, drizzle olive oil on top.",
+    "author": "Chef Leila",
+    "authorId": "user14"
+  },
+  {
+    "id": "guacamole",
+    "title": "Guacamole",
+    "category": { "name": "Sauces & Dips", "slug": "sauces-dips" },
+    "imageUrl": "guacamole",
+    "ingredients": "Avocado, Onion, Tomato, Lime, Cilantro, Salt",
+    "instructions": "Mash avocado, mix with chopped veggies and lime juice.",
+    "author": "Chef Carlos",
+    "authorId": "user15"
+  },
+  {
+    "id": "falafel",
+    "title": "Falafel",
+    "category": { "name": "Snacks", "slug": "snacks" },
+    "imageUrl": "falafel",
+    "ingredients": "Chickpeas, Onion, Garlic, Parsley, Cumin, Oil",
+    "instructions": "Form balls from blended ingredients, deep fry until golden.",
+    "author": "Chef Nabil",
+    "authorId": "user16"
+  },
+  {
+    "id": "nachos",
+    "title": "Nachos",
+    "category": { "name": "Snacks", "slug": "snacks" },
+    "imageUrl": "nachos",
+    "ingredients": "Tortilla Chips, Cheese, Jalapenos, Salsa",
+    "instructions": "Layer chips with cheese and toppings, bake until cheese melts.",
+    "author": "Chef Sofia",
+    "authorId": "user17"
+  },
+  {
+    "id": "chocolate-cake",
+    "title": "Chocolate Cake",
+    "category": { "name": "Desserts", "slug": "desserts" },
+    "imageUrl": "chocolate-cake",
+    "ingredients": "Flour, Cocoa, Sugar, Eggs, Butter, Baking Powder",
+    "instructions": "Mix ingredients, bake in preheated oven until done.",
+    "author": "Chef Emma",
+    "authorId": "user19"
+  },
+  {
+    "id": "baklava",
+    "title": "Baklava",
+    "category": { "name": "Desserts", "slug": "desserts" },
+    "imageUrl": "baklava",
+    "ingredients": "Phyllo Dough, Nuts, Butter, Sugar, Syrup",
+    "instructions": "Layer phyllo with nuts, bake, then pour syrup over hot pastry.",  
+    "author": "Chef Ayşe",
+    "authorId": "user20"
+  },
+  {
+    "id": "coffee",
+    "title": "Coffee",
+    "category": { "name": "Beverages", "slug": "beverages" },
+    "imageUrl": "coffee",
+    "ingredients": "Coffee Beans, Water",
+    "instructions": "Brew ground beans with hot water.",
+    "author": "Barista Anna",
+    "authorId": "user22"
+  },
+  {
+    "id": "smoothie",
+    "title": "Fruit Smoothie",
+    "category": { "name": "Beverages", "slug": "beverages" },
+    "imageUrl": "fruit-smoothie",
+    "ingredients": "Mixed Fruits, Yogurt, Honey",
+    "instructions": "Blend all ingredients until smooth.",
+    "author": "Barista Lisa",
+    "authorId": "user24"
+  },
+  {
+    "id": "pancakes",
+    "title": "Pancakes",
+    "category": { "name": "Breakfast", "slug": "breakfast" },
+    "imageUrl": "pancakes",
+    "ingredients": "Flour, Milk, Eggs, Sugar, Baking Powder",
+    "instructions": "Mix ingredients, cook batter on griddle until golden.",
+    "author": "Chef Linda",
+    "authorId": "user25"
+  },
+  {
+    "id": "omelette",
+    "title": "Omelette",
+    "category": { "name": "Breakfast", "slug": "breakfast" },
+    "imageUrl": "omelette",
+    "ingredients": "Eggs, Milk, Butter, Salt, Pepper",
+    "instructions": "Whisk eggs and milk, cook in buttered pan, fold and serve.",
+    "author": "Chef Paul",
+    "authorId": "user26"
+  },
+  {
+    "id": "vegetable-stir-fry",
+    "title": "Vegetable Stir Fry",
+    "category": { "name": "Vegan / Vegetarian", "slug": "vegan-vegetarian" },
+    "imageUrl": "vegetable-stir-fry",
+    "ingredients": "Mixed Vegetables, Soy Sauce, Garlic, Ginger",
+    "instructions": "Stir fry vegetables with sauce until crisp-tender.",
+    "author": "Chef Lin",
+    "authorId": "user29"
+  }
+]
